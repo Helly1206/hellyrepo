@@ -16,18 +16,18 @@ Description: SyncWatch plugin for OpenMediaVault.
 Plugin-Section: sharing
 
 Package: smartfancontrol
-Version: 0.80
+Version: 0.81
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 166
-Depends: pigpio (>= 1.71-0~rpt1)
+Installed-Size: 160
+Depends: pigpio (>= 1.71-0~rpt1), python3
 Priority: optional
 Section: net
-Filename: pool/main/s/smartfancontrol/smartfancontrol_0.80_all.deb
-Size: 25736
-SHA256: fd5e007367a814b987fb03d63fd9ed97a6c28e45fe5466a4a4bff455ae328293
-SHA1: 1d45379925a29e55f9092311c0c4d10813e88ff3
-MD5sum: 5213ca4cfa8b30fcb430ad5a1477a909
+Filename: pool/main/s/smartfancontrol/smartfancontrol_0.81_all.deb
+Size: 25808
+SHA256: 057e6b92300ccd21db949c435c095914625b668dfb77fefcfcfaaa0d3898a51a
+SHA1: 92991be19300c17d02da16b546caf226e6d5afa0
+MD5sum: 662fc5914a3039b3737d38ab03fd5107
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
