@@ -32,3 +32,19 @@ Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
 
+Package: syncwatch
+Version: 0.84
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 61
+Depends: python3
+Priority: optional
+Section: net
+Filename: pool/main/s/syncwatch/syncwatch_0.84_all.deb
+Size: 12636
+SHA256: 4c7045024dd2ac56d2e9ea7549c4b8c09a21959e9a38fc1339f27f20c55b6fdf
+SHA1: 270a53654613b39e71b0910ef1c0ed17e537dcc6
+MD5sum: 68f6510c615364136dd6f70af9b46101
+Description: SyncWatch service to synchronize 2 locations on file or folder change
+Plugin-Section: sharing
+
