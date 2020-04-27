@@ -1,5 +1,5 @@
 Helly1206 apt repository<br>
-========= === ==========
+===================<br>
 
 Execute the following commands to add the repository to the list and automatically update:<br>
 
