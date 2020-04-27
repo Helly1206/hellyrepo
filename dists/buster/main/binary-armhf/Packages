@@ -37,14 +37,14 @@ Version: 0.84
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 61
-Depends: python3
+Depends: rsync, python3
 Priority: optional
 Section: net
 Filename: pool/main/s/syncwatch/syncwatch_0.84_all.deb
-Size: 12636
-SHA256: 4c7045024dd2ac56d2e9ea7549c4b8c09a21959e9a38fc1339f27f20c55b6fdf
-SHA1: 270a53654613b39e71b0910ef1c0ed17e537dcc6
-MD5sum: 68f6510c615364136dd6f70af9b46101
+Size: 12644
+SHA256: 3e0474692603cbb836d366a4ae9d2ee1746fe98f117b0eba1fbeba0685b1a137
+SHA1: 6ea7380c5700dd6066f75ec48bfb2e72a38c9520
+MD5sum: 18c8c4e51cd4a8bf5de109d87629d2eb
 Description: SyncWatch service to synchronize 2 locations on file or folder change
 Plugin-Section: sharing
 
