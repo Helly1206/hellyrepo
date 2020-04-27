@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Helly1206.github.io/hellyrepo
+Label: Helly1206.github.io/hellyrepo
+Codename: buster
+Date: Mon, 27 Apr 2020 06:58:04 UTC
+Architectures: i386 amd64
+Components: main
+Description: Helly1206 apt repository
+MD5Sum:
+ 9b97d689dbb40fd9d5aca77dac0a9a68 1145 main/binary-i386/Packages
+ ea0231074ccdd4f84c59e641af79976a 621 main/binary-i386/Packages.gz
+ 843af9adfbd514dad64796a2a0071f40 148 main/binary-i386/Release
+ 9b97d689dbb40fd9d5aca77dac0a9a68 1145 main/binary-amd64/Packages
+ ea0231074ccdd4f84c59e641af79976a 621 main/binary-amd64/Packages.gz
+ a623baa5aab53f71d5b04615d1edec8d 149 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 4c97e8e2c800379f3aa1bd982cc48c65 150 main/source/Release
+SHA1:
+ 9726d56d4ab59cf2403848d7e6cb68ef04d3bcf7 1145 main/binary-i386/Packages
+ deff4c0017f3b2218777a2595d36fbf64147f6f9 621 main/binary-i386/Packages.gz
+ 0aea7268a57ce4e50aabe8114ecba454e095af72 148 main/binary-i386/Release
+ 9726d56d4ab59cf2403848d7e6cb68ef04d3bcf7 1145 main/binary-amd64/Packages
+ deff4c0017f3b2218777a2595d36fbf64147f6f9 621 main/binary-amd64/Packages.gz
+ a4b9126417d787d6966ac7fb8997dd6260d5cee8 149 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 41626dcf56cd07fd3460fcc1dd0f27e26577c2a0 150 main/source/Release
+SHA256:
+ 05138e5aa6ad847fe2dc2a1d25e03c7fceba5cce5862ebbe2ec80e3f93fc2b8f 1145 main/binary-i386/Packages
+ aa5d71b33e7966d3c410ec5224d6091010de50395fad650032ba5c19b9ea4c6a 621 main/binary-i386/Packages.gz
+ 338104f6cfc98b5a2aecc37a447f0b75a25938b518b1f2dd735d928915251471 148 main/binary-i386/Release
+ 05138e5aa6ad847fe2dc2a1d25e03c7fceba5cce5862ebbe2ec80e3f93fc2b8f 1145 main/binary-amd64/Packages
+ aa5d71b33e7966d3c410ec5224d6091010de50395fad650032ba5c19b9ea4c6a 621 main/binary-amd64/Packages.gz
+ 6d272d65da5a5d5e1cb69facd0b3310ae1f3d3cb2a5f2858fd8a77351d551b07 149 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 5834873583f11ff8f432c759b44d556e6415f1c76fe2c6ee47211ded47bc96a7 150 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAl6mgnwACgkQutlbvjQr
+VeWC1Qv+Lr+jmxDYMJ2ZDCqbfG2g21EDvXO6XwHKxkYh9aCnwhy2Eg/e9hG95HJa
+Y6sqEdXP9wMtYZVGtgQ9k8kYm0FrSaosKtgIKAcwlEJifLX58UB6kKANRBHqmE3d
+mQSMv3iSWvV2sZggnL2HP8Nt85VRl5/HQHMlgRtMj+XEUU4vQZ6BksghwL0tLJHL
+QgodK3LjLUzVCJQuiq9xQJQj9IIlbw/NvSeZJNxfaY8H3i7LtC9mFsquyEFX9nYy
+JQ31CiGil8aO5z2oWCLr9wRGUM2CDjC4Dcp8BmS6+tScP/SdB2LBJ6SkHPRGA+cS
+tordXOBkoDyypN5LOuvMsiw1mCZGVnmfsibKfsqrOBiC6xQjYvkc9EdcPrie/PJX
+lrYZEqfB44gd5CuNEzm0KiQSi0YEpwXoM7ahPrI16avyGqbXsEc8v89aWM4b7ONR
+uYIGvkZTA6X82I5cw1+vvY5ReAlAd0wTWUyLI1g9jeXrlL22uayK5j2GXx6kf1a9
+WInOb6Ae
+=dDl3
+-----END PGP SIGNATURE-----
