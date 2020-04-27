@@ -7,4 +7,4 @@ Add key:
 wget -qO - https://Helly1206.github.io/hellyrepo/public_key | sudo apt-key add -
 
 Add repository to the list:
-wget -q0 - https://Helly1206.github.io/hellyrepo/hellyrepo.list | sudo tee /etc/apt/sources.list.d/hellyrepo.list
+wget -qO - https://Helly1206.github.io/hellyrepo/hellyrepo.list | sudo tee /etc/apt/sources.list.d/hellyrepo.list
