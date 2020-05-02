@@ -1,16 +1,16 @@
 Package: openmediavault-syncwatch
-Version: 5.0
+Version: 5.01
 Architecture: all
 Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
-Installed-Size: 252
-Depends: openmediavault (>= 5.1)
+Installed-Size: 205
+Depends: openmediavault (>= 5.1), syncwatch (>= 0.84), python3
 Priority: optional
 Section: net
-Filename: pool/main/o/openmediavault-syncwatch/openmediavault-syncwatch_5.0_all.deb
-Size: 25088
-SHA256: f3ac481dfc5273047448566ff789420a43f27bc545a2ed4f1f8fcc21180dd5aa
-SHA1: 4729a7a6b77272d88fffe40b995edba8d3c056bb
-MD5sum: 6f4ede318c767c75613782e4582f339d
+Filename: pool/main/o/openmediavault-syncwatch/openmediavault-syncwatch_5.01_all.deb
+Size: 14864
+SHA256: 6eef482060dc4619be1ff0f18312a2aa6f3817665625245acc1e6f8dcf0fe2eb
+SHA1: f612d16710d91f0a46a5b4aba5afd1275d1f8d2e
+MD5sum: 1c05e2ff70b533c8a57bba69046c599d
 Description: SyncWatch plugin for OpenMediaVault.
  Allow controlling SyncWatch directly from OpenMediaVault.
 Plugin-Section: sharing
