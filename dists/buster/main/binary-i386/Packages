@@ -1,3 +1,20 @@
+Package: openmediavault-smartfancontrol
+Version: 5.0
+Architecture: all
+Maintainer: Helly1206 <hellyrulez@hotmail.com>
+Installed-Size: 255
+Depends: openmediavault (>= 5.1), smartfancontrol (>= 0.81), python3
+Priority: optional
+Section: net
+Filename: pool/main/o/openmediavault-smartfancontrol/openmediavault-smartfancontrol_5.0_all.deb
+Size: 16980
+SHA256: cc0d63665d8d2706d94fe2bd433d47c73b0f5d21d8021fa0c46cc141e3f83473
+SHA1: 45d3a29fabd6d60c92182f2fbe4fe1c51859d098
+MD5sum: 1b5195223b157cd997ee3670445693be
+Description: smartfancontrol plugin for OpenMediaVault.
+ Allow controlling smartfancontrol directly from OpenMediaVault.
+Plugin-Section: utilities
+
 Package: openmediavault-syncwatch
 Version: 5.01
 Architecture: all
