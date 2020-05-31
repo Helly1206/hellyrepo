@@ -4,8 +4,8 @@ Hash: SHA512
 Origin: Helly1206.github.io/hellyrepo
 Label: Helly1206.github.io/hellyrepo
 Codename: buster
-Date: Sat, 30 May 2020 08:45:21 UTC
-Architectures: i386 amd64 armhf
+Date: Sun, 31 May 2020 06:43:57 UTC
+Architectures: i386 amd64 armhf arm64
 Components: main
 Description: Helly1206 apt repository
 MD5Sum:
@@ -18,6 +18,9 @@ MD5Sum:
  f7145d0058314f5d35db2b46f7c77620 2326 main/binary-armhf/Packages
  e5549214a458814eb4b001728abcb7fa 966 main/binary-armhf/Packages.gz
  aec36bbf039e4d62abaa5a3b2985c6aa 149 main/binary-armhf/Release
+ f7145d0058314f5d35db2b46f7c77620 2326 main/binary-arm64/Packages
+ e5549214a458814eb4b001728abcb7fa 966 main/binary-arm64/Packages.gz
+ a50148d9f714b5d86882fe23fbd4ce0f 149 main/binary-arm64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  4c97e8e2c800379f3aa1bd982cc48c65 150 main/source/Release
@@ -31,6 +34,9 @@ SHA1:
  4957897ec14a12dd011b654ce591a6d3ae8eac1d 2326 main/binary-armhf/Packages
  0da8d2ae04a1484d70b6e97a72745d929dafdf0e 966 main/binary-armhf/Packages.gz
  3d2e79c035812596463442623c2db420b7c29c74 149 main/binary-armhf/Release
+ 4957897ec14a12dd011b654ce591a6d3ae8eac1d 2326 main/binary-arm64/Packages
+ 0da8d2ae04a1484d70b6e97a72745d929dafdf0e 966 main/binary-arm64/Packages.gz
+ b9a6eb6d767a449ae1e2f16996970f676c001469 149 main/binary-arm64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  41626dcf56cd07fd3460fcc1dd0f27e26577c2a0 150 main/source/Release
@@ -44,20 +50,23 @@ SHA256:
  f0d1758e170ee2a7b7e76158e761a389ffe7a7b72bdd23670726d44975151a5e 2326 main/binary-armhf/Packages
  020fa3efa2fdd744e91dc8051a0df323b1234cab3e0cae146ea2bc41433d14d6 966 main/binary-armhf/Packages.gz
  df1c22a9078b03362feaaef827dbc5afd538a1be498bd02d201b4a477aba94cd 149 main/binary-armhf/Release
+ f0d1758e170ee2a7b7e76158e761a389ffe7a7b72bdd23670726d44975151a5e 2326 main/binary-arm64/Packages
+ 020fa3efa2fdd744e91dc8051a0df323b1234cab3e0cae146ea2bc41433d14d6 966 main/binary-arm64/Packages.gz
+ fda2436ba7c4f8d3f93b93af8294121c7bea977ed43055db6b933acec2355087 149 main/binary-arm64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  5834873583f11ff8f432c759b44d556e6415f1c76fe2c6ee47211ded47bc96a7 150 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAl7SHSUACgkQutlbvjQr
-VeWHtwwAxOYvQFtWpdsJfD4JhnGlMIOwc5LN5/4xFIVfYppjI26Dm0QeJY+wUJ1H
-j4VTSRwUXOcmHbtLHkEcSbWZSuWG4BBdpJWbR1FmdvHttWLeVFva437+IZjRBUv1
-L+DbMP7faH+dxj532gFTpPTpi0loWmfmYdm11R+sxmq4weppe9bBhFFJBcxN+n98
-WvIiZSDfdHdrKrKfnbCcX6xAWCQsx4z1te+l+P5y5yZsIu4AhTASDALzYM853wop
-+f99FnFq9F/pQDg2+vpkm3ejOyQli4H2W2G0QltgcnbWsKomF3eDhbsAjMyMxFLc
-KcAZ5B1pCLbPKhBDvF7vfD9Kage6f2xG8VIJkbZ/WLMPHw33XnsnjEC69LiIzPjM
-1WTnV14yGKKOXrC0NdK+LiIrjavRtr/A+n007K/6wIvpTyAlydoO7ycpxYyEReWD
-ZJ+MU7dufYJCQXSuapXr82IpO5mHccmXI8ryMZrAfi6DDacmorEgHVxD8VMA9d38
-aSrJy9PT
-=o4F1
+iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAl7TUjIACgkQutlbvjQr
+VeVxzwwAmzvMDBOO2GANpvr094wNEXksJYjiwYdi/wgyEuH5W3ldZBqJaGJ6+8c9
+q0gnRXn/TnGa29Vl9bXGsm5Wy8xrK2L5HLwT+Z+00190u6o48GOKtkt6RixqTVEH
+OtIy/dWArplWfJKHi6MzWQWP9Kh+SmmOPiDJoGlJ01bxdH3ni8BBfipKTkPBcfta
+PYPzj55dEWF7qLMkGGFMdWmwa98bIZpgZE5RiJWQjjGGZcU/poi6g1RfPYm550Q2
+Me6jay5joBzo1z3ben3stzQewtKHs+Tki5Y/yhtEVhCLCpLfcJwWN0MT35zgI1Vr
+t4hJa+wAA30N/RyCenvWJwJyAu/lU0SBYeAurYcPUhxrO6jGKyyEboFVKcrKsWdU
+OwEVXtn77yYIWDdnTUwbeljaElWNtdmaGCNhvP062juebVAayjAWypWFPiNz1rXe
+TiU1f9L4NoqMKiGoUYl6IgBvdKiPvPkN6zpT6SDeUc52d/Rj9A74KIwCA4hY7+ry
+atoH+hQD
+=VlVA
 -----END PGP SIGNATURE-----

@@ -1,0 +1,67 @@
+Package: openmediavault-smartfancontrol
+Version: 5.0
+Architecture: all
+Maintainer: Helly1206 <hellyrulez@hotmail.com>
+Installed-Size: 255
+Depends: openmediavault (>= 5.1), smartfancontrol (>= 0.81), python3
+Priority: optional
+Section: net
+Filename: pool/main/o/openmediavault-smartfancontrol/openmediavault-smartfancontrol_5.0_all.deb
+Size: 16980
+SHA256: cc0d63665d8d2706d94fe2bd433d47c73b0f5d21d8021fa0c46cc141e3f83473
+SHA1: 45d3a29fabd6d60c92182f2fbe4fe1c51859d098
+MD5sum: 1b5195223b157cd997ee3670445693be
+Description: smartfancontrol plugin for OpenMediaVault.
+ Allow controlling smartfancontrol directly from OpenMediaVault.
+Plugin-Section: utilities
+
+Package: openmediavault-syncwatch
+Version: 5.01
+Architecture: all
+Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
+Installed-Size: 205
+Depends: openmediavault (>= 5.1), syncwatch (>= 0.84), python3
+Priority: optional
+Section: net
+Filename: pool/main/o/openmediavault-syncwatch/openmediavault-syncwatch_5.01_all.deb
+Size: 14864
+SHA256: 6eef482060dc4619be1ff0f18312a2aa6f3817665625245acc1e6f8dcf0fe2eb
+SHA1: f612d16710d91f0a46a5b4aba5afd1275d1f8d2e
+MD5sum: 1c05e2ff70b533c8a57bba69046c599d
+Description: SyncWatch plugin for OpenMediaVault.
+ Allow controlling SyncWatch directly from OpenMediaVault.
+Plugin-Section: sharing
+
+Package: smartfancontrol
+Version: 0.81
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 160
+Depends: pigpio (>= 1.71-0~rpt1), python3
+Priority: optional
+Section: net
+Filename: pool/main/s/smartfancontrol/smartfancontrol_0.81_all.deb
+Size: 25808
+SHA256: 057e6b92300ccd21db949c435c095914625b668dfb77fefcfcfaaa0d3898a51a
+SHA1: 92991be19300c17d02da16b546caf226e6d5afa0
+MD5sum: 662fc5914a3039b3737d38ab03fd5107
+Description: SmartFanControl - keep it cool -
+ service containing all in one fan and temperature control
+Plugin-Section: sharing
+
+Package: syncwatch
+Version: 0.84
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 61
+Depends: rsync, python3
+Priority: optional
+Section: net
+Filename: pool/main/s/syncwatch/syncwatch_0.84_all.deb
+Size: 12644
+SHA256: 3e0474692603cbb836d366a4ae9d2ee1746fe98f117b0eba1fbeba0685b1a137
+SHA1: 6ea7380c5700dd6066f75ec48bfb2e72a38c9520
+MD5sum: 18c8c4e51cd4a8bf5de109d87629d2eb
+Description: SyncWatch service to synchronize 2 locations on file or folder change
+Plugin-Section: sharing
+
