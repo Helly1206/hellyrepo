@@ -42,9 +42,9 @@ Priority: optional
 Section: net
 Filename: pool/main/s/smartfancontrol/smartfancontrol_0.81_all.deb
 Size: 25808
-SHA256: 057e6b92300ccd21db949c435c095914625b668dfb77fefcfcfaaa0d3898a51a
-SHA1: 92991be19300c17d02da16b546caf226e6d5afa0
-MD5sum: 662fc5914a3039b3737d38ab03fd5107
+SHA256: 0297d7b0532ff6903b954b14d3f3cc13b66b1cef502defff7c9733c66d85ae12
+SHA1: a85ccbe483fd550597ce57af9d6961e6a065a7c0
+MD5sum: e141631a4c94caa54098f346000a115e
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
@@ -58,10 +58,26 @@ Depends: rsync, python3
 Priority: optional
 Section: net
 Filename: pool/main/s/syncwatch/syncwatch_0.84_all.deb
-Size: 12644
-SHA256: 3e0474692603cbb836d366a4ae9d2ee1746fe98f117b0eba1fbeba0685b1a137
-SHA1: 6ea7380c5700dd6066f75ec48bfb2e72a38c9520
-MD5sum: 18c8c4e51cd4a8bf5de109d87629d2eb
+Size: 12640
+SHA256: b7bed1fc48d881ff2a4dd30007f1680f39e14bc2c1aad425b8cba26b8eafc954
+SHA1: 5ea8b0f52c502e799b6688ad710388525eaabd57
+MD5sum: c75ca2f9c8ddaa56f31a7a68949eb72b
 Description: SyncWatch service to synchronize 2 locations on file or folder change
+Plugin-Section: sharing
+
+Package: xnas
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 533
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/x/xnas/xnas_0.80_all.deb
+Size: 65920
+SHA256: 0d47386c2fdccfbb2795d2cc8f182405c5b91f7251de424bfed8db2bf59b9bd5
+SHA1: 367cf84fa8eecdaef184b49084da419c76cb2787
+MD5sum: 0d63c7d38fdfb705843b72b40aa4c2ef
+Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
