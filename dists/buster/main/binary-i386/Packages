@@ -66,18 +66,18 @@ Description: SyncWatch service to synchronize 2 locations on file or folder chan
 Plugin-Section: sharing
 
 Package: xnas
-Version: 0.80
+Version: 0.88
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 533
+Installed-Size: 559
 Depends: python3, python3-pip
 Priority: optional
 Section: net
-Filename: pool/main/x/xnas/xnas_0.80_all.deb
-Size: 65920
-SHA256: 0d47386c2fdccfbb2795d2cc8f182405c5b91f7251de424bfed8db2bf59b9bd5
-SHA1: 367cf84fa8eecdaef184b49084da419c76cb2787
-MD5sum: 0d63c7d38fdfb705843b72b40aa4c2ef
+Filename: pool/main/x/xnas/xnas_0.88_all.deb
+Size: 69212
+SHA256: a8c4409aa543a1ce61d1e4c1eb36a9dcd50aed66863bbef3854952cc7c5b31bd
+SHA1: 8d793ed1527575ae880cd08027dc915a6970a9e9
+MD5sum: dd99e626ce4f986eab3f8a9ec8fce887
 Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
