@@ -1,3 +1,35 @@
+Package: cockpit-stdplgin
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 104
+Depends: cockpit
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.80_all.deb
+Size: 18600
+SHA256: d8ad278e59145a92f22dc6ecebe96f805264b72e5ec0ade07e8fa5a35c514c10
+SHA1: 72f9d4793310c5cb8b6300daf468fa111a5f1cca
+MD5sum: af03402b3a022b17c9d198a5cd1641a5
+Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
+Plugin-Section: sharing
+
+Package: cockpit-xnas
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 87
+Depends: xnas (>= 0.88), cockpit, cockpit-stdplgin (>= 0.80)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-xnas/cockpit-xnas_0.80_all.deb
+Size: 12964
+SHA256: 011a1751b112787bb95858a12703d70d3d6b5c980bf04b6530f2d8ce6833af9f
+SHA1: 71e7c4c37c36a4558ae3b4d111257337fc472a2a
+MD5sum: 44f46f6acd922696c38bae7259ece17d
+Description: cockpit-xnas (cockpit UI for XNAS)
+Plugin-Section: sharing
+
 Package: openmediavault-smartfancontrol
 Version: 5.0
 Architecture: all
