@@ -74,10 +74,10 @@ Depends: python3, python3-pip
 Priority: optional
 Section: net
 Filename: pool/main/x/xnas/xnas_0.88_all.deb
-Size: 69212
-SHA256: a8c4409aa543a1ce61d1e4c1eb36a9dcd50aed66863bbef3854952cc7c5b31bd
-SHA1: 8d793ed1527575ae880cd08027dc915a6970a9e9
-MD5sum: dd99e626ce4f986eab3f8a9ec8fce887
+Size: 69224
+SHA256: 6634b942b50573531533246fb6ccefecf60dbc0bf0a76860b65b335a4921d76c
+SHA1: 680a0cf9c78a2acb96a2f8a7244f5b5175e30b6a
+MD5sum: b0738262e2c167e921c08f7c0fe4558a
 Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
