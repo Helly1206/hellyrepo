@@ -82,18 +82,18 @@ Description: SmartFanControl - keep it cool -
 Plugin-Section: sharing
 
 Package: syncwatch
-Version: 0.84
+Version: 0.85
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 61
 Depends: rsync, python3
 Priority: optional
 Section: net
-Filename: pool/main/s/syncwatch/syncwatch_0.84_all.deb
-Size: 12640
-SHA256: b7bed1fc48d881ff2a4dd30007f1680f39e14bc2c1aad425b8cba26b8eafc954
-SHA1: 5ea8b0f52c502e799b6688ad710388525eaabd57
-MD5sum: c75ca2f9c8ddaa56f31a7a68949eb72b
+Filename: pool/main/s/syncwatch/syncwatch_0.85_all.deb
+Size: 12792
+SHA256: f5b9d6cc78c8469b98bcc7dc771c0e0a6db92a9d935bf6c7cf74d8b13de5e4c8
+SHA1: c0f36f0ad6749968034d97876ab5bf3016053c6f
+MD5sum: 8e4aad8b7113a0ee86252b574295b586
 Description: SyncWatch service to synchronize 2 locations on file or folder change
 Plugin-Section: sharing
 
