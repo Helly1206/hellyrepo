@@ -1,17 +1,33 @@
 Package: cockpit-stdplgin
-Version: 0.80
+Version: 0.81
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 107
+Installed-Size: 108
 Depends: cockpit
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.80_all.deb
-Size: 19536
-SHA256: c24a32bde48c78fda183b3cbe864eeff6e482cf42695969f6d40e053dee90f45
-SHA1: 4ea3e35a1f589a3c92c1917f818aae3d5e4590e5
-MD5sum: 997a47f6e6a08d441a233d3bcab99c3f
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.81_all.deb
+Size: 19692
+SHA256: d0478650b49c2bf88c4408f9edef51879e5b542a478be9966133577d87bf408d
+SHA1: 66bd8e74ff7699d8af10f5da3a4e1e719790ca73
+MD5sum: 39bb7dd1fd0895e1746b1a3d0289a1fc
 Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
+Plugin-Section: sharing
+
+Package: cockpit-syncwatch
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 56
+Depends: syncwatch (>= 0.85), cockpit, cockpit-stdplgin (>= 0.81)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-syncwatch/cockpit-syncwatch_0.80_all.deb
+Size: 9680
+SHA256: 6923a5a6ecefae04f34221313ff266880ed2b345510916b8f6ba8c8612b56368
+SHA1: 1aebbe082cc4aba8ca1778d845729138c220b001
+MD5sum: 93fbf74b5305130193774068c171aecc
+Description: cockpit-syncwatch (cockpit UI for SyncWatch)
 Plugin-Section: sharing
 
 Package: cockpit-xnas
