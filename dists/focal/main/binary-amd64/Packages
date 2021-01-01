@@ -56,10 +56,10 @@ Recommends: pigpio (>= 1.71-0~rpt1)
 Priority: optional
 Section: net
 Filename: pool/main/s/smartfancontrol/smartfancontrol_0.82_all.deb
-Size: 26080
-SHA256: a0be19480fafa7693b3bc68f78c8334f74ceea05e15060cd1d9dca03bbcb9227
-SHA1: 42137995cd5452497f64731f8f4ea2428708fa15
-MD5sum: b68b17b250282bd0746987ae1aa117e8
+Size: 26076
+SHA256: 05d136507fd5a6ce8db0d1a6d879e241a0b5e87bc53d51d12e3183992c74175e
+SHA1: 1713a56d998be1791c987b6c43f423a0d083670b
+MD5sum: 6d1a4bf3cb9c260560cb716fc8c01db3
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
