@@ -1,16 +1,16 @@
 Package: cockpit-stdplgin
-Version: 0.81
+Version: 0.82
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 108
 Depends: cockpit
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.81_all.deb
-Size: 19692
-SHA256: d0478650b49c2bf88c4408f9edef51879e5b542a478be9966133577d87bf408d
-SHA1: 66bd8e74ff7699d8af10f5da3a4e1e719790ca73
-MD5sum: 39bb7dd1fd0895e1746b1a3d0289a1fc
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.82_all.deb
+Size: 19772
+SHA256: f575924f345e8125f582ec7e86878a428ba2e01a09214b122a8b243c47518e46
+SHA1: 56de1538f41a3d6182b3a19ac17f887d23d6f711
+MD5sum: 68bd5dcc24fb2c829481da63f1898d2d
 Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
 Plugin-Section: sharing
 
