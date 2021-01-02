@@ -1,3 +1,19 @@
+Package: cockpit-smartfancontrol
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 57
+Depends: smartfancontrol (>= 0.83), cockpit, cockpit-stdplgin (>= 0.82)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.80_all.deb
+Size: 9664
+SHA256: 7410b6ad8a2953e303460bf9c7afbcea0098b66a50c3627833f5ce5ce980f8a5
+SHA1: 48b18bf686d278cf32672af1e910920cbe6be96f
+MD5sum: 11224243ed6c9a81c4f0bc80a2674157
+Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
+Plugin-Section: sharing
+
 Package: cockpit-stdplgin
 Version: 0.82
 Architecture: all
@@ -18,15 +34,15 @@ Package: cockpit-syncwatch
 Version: 0.80
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 56
+Installed-Size: 58
 Depends: syncwatch (>= 0.85), cockpit, cockpit-stdplgin (>= 0.81)
 Priority: optional
 Section: net
 Filename: pool/main/c/cockpit-syncwatch/cockpit-syncwatch_0.80_all.deb
-Size: 9680
-SHA256: 6923a5a6ecefae04f34221313ff266880ed2b345510916b8f6ba8c8612b56368
-SHA1: 1aebbe082cc4aba8ca1778d845729138c220b001
-MD5sum: 93fbf74b5305130193774068c171aecc
+Size: 10136
+SHA256: 2c3557024104d9097147daf820fca319cf51100a73d7a335c125ba14feb78060
+SHA1: 3c3cf1d450e8da17cd00d747835dfbd861c5dce6
+MD5sum: 86d5ec60086cb12844b81a318a56087d
 Description: cockpit-syncwatch (cockpit UI for SyncWatch)
 Plugin-Section: sharing
 
@@ -47,7 +63,7 @@ Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
 Package: smartfancontrol
-Version: 0.82
+Version: 0.83
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 160
@@ -55,11 +71,11 @@ Depends: python3
 Recommends: pigpio (>= 1.71-0~rpt1)
 Priority: optional
 Section: net
-Filename: pool/main/s/smartfancontrol/smartfancontrol_0.82_all.deb
-Size: 26076
-SHA256: 05d136507fd5a6ce8db0d1a6d879e241a0b5e87bc53d51d12e3183992c74175e
-SHA1: 1713a56d998be1791c987b6c43f423a0d083670b
-MD5sum: 6d1a4bf3cb9c260560cb716fc8c01db3
+Filename: pool/main/s/smartfancontrol/smartfancontrol_0.83_all.deb
+Size: 26188
+SHA256: 13d4f4947672b65b95e53bb537c4a5c879aa7e719648cd442f79a1ea9168ad65
+SHA1: 353abf8e82bfd22273345d2a71431895a4f49f48
+MD5sum: 2c6ea11f807f4b7a081ce81f377c2f20
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
