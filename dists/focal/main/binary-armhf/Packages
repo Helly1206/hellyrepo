@@ -1,3 +1,19 @@
+Package: cockpit-openvpn
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 78
+Depends: openvpn, easy-rsa, cockpit, cockpit-stdplgin (>= 0.81)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.80_all.deb
+Size: 14112
+SHA256: 642afcc68b2107ae19d0d80fcac774e1089b51b1da5183015ac38be3ee0ca1f6
+SHA1: c1146e3b349fab4da03b4c8307997e7b1f58d4a0
+MD5sum: 66921e8cabcb1d0f8202b121bcd8a9fa
+Description: cockpit-openvpn (cockpit UI openVPN setup and certificate management)
+Plugin-Section: sharing
+
 Package: cockpit-smartfancontrol
 Version: 0.80
 Architecture: all
