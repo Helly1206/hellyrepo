@@ -78,6 +78,22 @@ MD5sum: c749ee60f8280c87c1d2ba53a37ce1ea
 Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
+Package: pigpiobuilder
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 27
+Depends: python3, python3-setuptools
+Priority: optional
+Section: net
+Filename: pool/main/p/pigpiobuilder/pigpiobuilder_0.80_all.deb
+Size: 3644
+SHA256: e03336ff742d157202b087e1636fdb03b46c900595e77116bc93cf595949b60f
+SHA1: 491ec7ec445ae0d0243c93c9a789284036c1e4e7
+MD5sum: 0fb0b39d86d58b4fcc3137452c13f262
+Description: pigpio_builder (Automatic downloading and builing the latest version of pigpio with apt upgrade)
+Plugin-Section: sharing
+
 Package: smartfancontrol
 Version: 0.83
 Architecture: all
