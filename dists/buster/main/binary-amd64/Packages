@@ -62,6 +62,22 @@ MD5sum: 86d5ec60086cb12844b81a318a56087d
 Description: cockpit-syncwatch (cockpit UI for SyncWatch)
 Plugin-Section: sharing
 
+Package: cockpit-tools
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 71
+Depends: cockpit, cockpit-stdplgin (>= 0.81), python3, python3-pil
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-tools/cockpit-tools_0.80_all.deb
+Size: 36436
+SHA256: 001faf72e3342988cc6647635473fdeaaef58835312bb5153bff68b0f8957599
+SHA1: ddb2a9dec6094d2f904410db2e8ede6b4fea986b
+MD5sum: 27f158b95d68ecbd78bb95cc88254304
+Description: cockpit-tools (Add links to external webtools to cockpit)
+Plugin-Section: sharing
+
 Package: cockpit-xnas
 Version: 0.80
 Architecture: all
