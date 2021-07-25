@@ -162,7 +162,7 @@ Description: rpipoweroff - Service to reboot or poweroff the raspberry pi
 Plugin-Section: sharing
 
 Package: smartfancontrol
-Version: 0.83
+Version: 0.84
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 160
@@ -170,11 +170,11 @@ Depends: python3
 Recommends: pigpio (>= 1.71-0~rpt1)
 Priority: optional
 Section: net
-Filename: pool/main/s/smartfancontrol/smartfancontrol_0.83_all.deb
-Size: 26188
-SHA256: 13d4f4947672b65b95e53bb537c4a5c879aa7e719648cd442f79a1ea9168ad65
-SHA1: 353abf8e82bfd22273345d2a71431895a4f49f48
-MD5sum: 2c6ea11f807f4b7a081ce81f377c2f20
+Filename: pool/main/s/smartfancontrol/smartfancontrol_0.84_all.deb
+Size: 26244
+SHA256: ce1b28f462e0b90f1a92d3956eb521bdc7e28a532f602420ae09eb9aabc2cea8
+SHA1: 4185d55a15bf23c2370df7ec366a090663a49d69
+MD5sum: 6256741245c17fdca3b1dd66328457bf
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
