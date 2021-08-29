@@ -1,3 +1,35 @@
+Package: app-weather
+Version: 0.93
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 54
+Depends: Domotion, python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/a/app-weather/app-weather_0.93_all.deb
+Size: 7008
+SHA256: 3c5d043ab28a2cefa8d12ab5ec3f269e15cd2ab25b5254188398e5518422aa04
+SHA1: 593b2abd8b9c64faf9b4cd543b76935552c24743
+MD5sum: cd773326c0f4a1d34eab6d86f4eacfab
+Description: app-weather (Domotion app obtaining weather)
+Plugin-Section: sharing
+
+Package: app-weather-standalone
+Version: 0.93
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 57
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/a/app-weather-standalone/app-weather-standalone_0.93_all.deb
+Size: 7480
+SHA256: d95957d16b1bc65d203f2bf6a50bf8126de43987061e4ff17e8d2dac65aab1d3
+SHA1: 3b590a4885d0f3cf0b8cb5af82bfb0c9997f77b1
+MD5sum: 99b6982a28639f84a01606970382dacc
+Description: app-weather-standalone (Domotion app obtaining weather)
+Plugin-Section: sharing
+
 Package: cockpit-openvpn
 Version: 0.80
 Architecture: all
