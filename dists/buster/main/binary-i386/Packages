@@ -95,18 +95,18 @@ Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
 Package: domotion
-Version: 1.33
+Version: 1.34
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 1113
+Installed-Size: 1133
 Depends: python3, python3-pip, sqlite3
 Priority: optional
 Section: net
-Filename: pool/main/d/domotion/domotion_1.33_all.deb
-Size: 164000
-SHA256: 2958ace20df139cad94d7aa137466e83370731b44530eceb394753dffda3dc0d
-SHA1: d2bed5cd814409cce3a306cf151ede175108f9ec
-MD5sum: b71c885f80f76e01d95f5ed113df6088
+Filename: pool/main/d/domotion/domotion_1.34_all.deb
+Size: 167048
+SHA256: 5c9c818c11713278bc3909f21a76d27b7a4aa472970c7acc8866fd41e73d72fa
+SHA1: 31498202251891366f2b1957d599a7246fd148e3
+MD5sum: 36a6cf6b83dedb9e16ad6f27d419c92d
 Description: Domotion (Home Control and Automation)
 Plugin-Section: sharing
 
@@ -193,6 +193,22 @@ SHA1: 4185d55a15bf23c2370df7ec366a090663a49d69
 MD5sum: 6256741245c17fdca3b1dd66328457bf
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
+Plugin-Section: sharing
+
+Package: smarthome
+Version: 0.90
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 188
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/s/smarthome/smarthome_0.90_all.deb
+Size: 32496
+SHA256: fe65ca44885740e7d79e75ca1e360f938eaffb28818edba567880f4c9c20002f
+SHA1: 337abae866c1d162e275049ad5aa2b5d839ca331
+MD5sum: 2ba2237ba7db8d3ae6933d1614f54fa2
+Description: SmartHome (Google smarthome multiplexer)
 Plugin-Section: sharing
 
 Package: syncwatch
