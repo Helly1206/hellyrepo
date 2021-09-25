@@ -63,18 +63,18 @@ Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
 Package: cockpit-stdplgin
-Version: 0.85
+Version: 0.86
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 112
+Installed-Size: 113
 Depends: cockpit
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.85_all.deb
-Size: 20364
-SHA256: fe49aa2af21ed9746b4cfd8e67eda4524381ffb657dab40482b526247a0f79dd
-SHA1: 049b941dfe4cdb3f4e18b5ae5f3368cd878a159b
-MD5sum: 250a9023c8a6ab2d9e14157c60ba3f3c
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.86_all.deb
+Size: 20416
+SHA256: ae0a9035af4b83cbfeb1634809c03c98fe2a275311d85fadb8b97ff5a294997e
+SHA1: 684c0c0877dd60bbc9e11ce457d0387a34fc02df
+MD5sum: e24091deb2fcd09522468697e282b035
 Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
 Plugin-Section: sharing
 
@@ -226,18 +226,18 @@ Description: SyncWatch service to synchronize 2 locations on file or folder chan
 Plugin-Section: sharing
 
 Package: xnas
-Version: 0.90
+Version: 0.91
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 559
+Installed-Size: 560
 Depends: python3, python3-pip
 Priority: optional
 Section: net
-Filename: pool/main/x/xnas/xnas_0.90_all.deb
-Size: 69616
-SHA256: 3ed4eb8edf132b0b84440ffe428abfb5e578e4f31b5ca834ebd72f5de896fc7d
-SHA1: 1d1be7c6a873eae44c58b097f8e77d861b7677b8
-MD5sum: b69125e4f8b5301969d4f21a3b8d04b3
+Filename: pool/main/x/xnas/xnas_0.91_all.deb
+Size: 69856
+SHA256: 1c0d16b124ceeed982516b9bb1df40c550fa813074f5c21bf1c50787632f1ce8
+SHA1: 0dd1caadef3b5bf47c1593f9b3acf1fc3882c86e
+MD5sum: cbb6cf2f4d34cbf9b0c612192e6e6dd9
 Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
