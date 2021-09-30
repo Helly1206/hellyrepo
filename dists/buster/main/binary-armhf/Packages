@@ -47,34 +47,34 @@ Description: cockpit-openvpn (cockpit UI openVPN setup and certificate managemen
 Plugin-Section: sharing
 
 Package: cockpit-smartfancontrol
-Version: 0.81
+Version: 0.82
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 57
-Depends: python3, smartfancontrol (>= 0.83), cockpit, cockpit-stdplgin (>= 0.82)
+Installed-Size: 258
+Depends: python3, smartfancontrol (>= 0.83), cockpit, cockpit-stdplgin (>= 0.87)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.81_all.deb
-Size: 9732
-SHA256: f1cf721911d9c0d70a814d50f11306b0c5822b777db4ed21cc2ad6b475967dac
-SHA1: 6967a4caf67677f4ae151e8fe1fdde8d5d127000
-MD5sum: 480d5499a1c70010e9249108c363bccb
+Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.82_all.deb
+Size: 70564
+SHA256: 92ce759558ac7adcacf74733c3b8563c245e3653207426b4e8371239082aa4b9
+SHA1: 0125e34a43004c548bd9e7c4dd553cca5fe36798
+MD5sum: e0e7c8e2e0e3dd400c9e084db02b59c7
 Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
 Package: cockpit-stdplgin
-Version: 0.86
+Version: 0.87
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 113
 Depends: cockpit
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.86_all.deb
-Size: 20416
-SHA256: ae0a9035af4b83cbfeb1634809c03c98fe2a275311d85fadb8b97ff5a294997e
-SHA1: 684c0c0877dd60bbc9e11ce457d0387a34fc02df
-MD5sum: e24091deb2fcd09522468697e282b035
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.87_all.deb
+Size: 20560
+SHA256: d6525f27708be9548024ded3ee9c9cee3b1b1e31b01f6ded64df451d440eed12
+SHA1: 7d92f161b2101bf093ec0a7f29ca7217a3a0ea94
+MD5sum: 81c84c89e881b64551d4ade49d0fa2ef
 Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
 Plugin-Section: sharing
 
