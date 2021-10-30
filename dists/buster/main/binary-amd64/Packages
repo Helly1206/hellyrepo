@@ -31,18 +31,18 @@ Description: app-weather-standalone (Domotion app obtaining weather)
 Plugin-Section: sharing
 
 Package: cockpit-openvpn
-Version: 0.81
+Version: 0.84
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 79
+Installed-Size: 83
 Depends: openvpn, easy-rsa, python3, python3-pip, cockpit, cockpit-stdplgin (>= 0.81)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.81_all.deb
-Size: 14600
-SHA256: 08a7c880768966d96e590f72e4cfd677b75ede23a3a9ec8700808de2e346865f
-SHA1: 9f22723a938f67b43c90cfa5ef53e612586b5c82
-MD5sum: e6ab74f6221ec848813eb61f597df705
+Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.84_all.deb
+Size: 15212
+SHA256: 1025fd7ad7119a902f54519c2890a37e96e2b82f10a914e79341fa05a688c2ec
+SHA1: 11334dabfe53d11962ab40c42f33baba916cde3d
+MD5sum: 39ea63b736d960adcb9b7d7fbee2bcc2
 Description: cockpit-openvpn (cockpit UI openVPN setup and certificate management)
 Plugin-Section: sharing
 
