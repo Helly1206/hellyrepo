@@ -31,34 +31,34 @@ Description: app-weather-standalone (Domotion app obtaining weather)
 Plugin-Section: sharing
 
 Package: cockpit-openvpn
-Version: 0.84
+Version: 0.85
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 83
 Depends: openvpn, easy-rsa, python3, python3-pip, cockpit, cockpit-stdplgin (>= 0.81)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.84_all.deb
-Size: 15212
-SHA256: 1025fd7ad7119a902f54519c2890a37e96e2b82f10a914e79341fa05a688c2ec
-SHA1: 11334dabfe53d11962ab40c42f33baba916cde3d
-MD5sum: 39ea63b736d960adcb9b7d7fbee2bcc2
+Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.85_all.deb
+Size: 15228
+SHA256: 153251afc075316e1f891f9c099ad53c1e6d16ee99aead96e0b6af776798e801
+SHA1: 88aee58e6e5f6725be3c4a1d1256aaa000fb9b0b
+MD5sum: 936d600f4295003e859e4cea6b8b1f29
 Description: cockpit-openvpn (cockpit UI openVPN setup and certificate management)
 Plugin-Section: sharing
 
 Package: cockpit-smartfancontrol
-Version: 0.82
+Version: 0.83
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 258
 Depends: python3, smartfancontrol (>= 0.83), cockpit, cockpit-stdplgin (>= 0.87)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.82_all.deb
-Size: 70564
-SHA256: 92ce759558ac7adcacf74733c3b8563c245e3653207426b4e8371239082aa4b9
-SHA1: 0125e34a43004c548bd9e7c4dd553cca5fe36798
-MD5sum: e0e7c8e2e0e3dd400c9e084db02b59c7
+Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.83_all.deb
+Size: 70660
+SHA256: 5a18ab6741568bf056fe9fa9e094769d626c43f8559c545b8652f19c89ff87c8
+SHA1: 82eb9d863462a4c42a64d40d1d3dbe6208139677
+MD5sum: c2eb37c3fbf715a7eacb340404d3057d
 Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
