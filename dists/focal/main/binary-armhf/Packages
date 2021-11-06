@@ -55,10 +55,10 @@ Depends: python3, smartfancontrol (>= 0.83), cockpit, cockpit-stdplgin (>= 0.87)
 Priority: optional
 Section: net
 Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.83_all.deb
-Size: 70660
-SHA256: 5a18ab6741568bf056fe9fa9e094769d626c43f8559c545b8652f19c89ff87c8
-SHA1: 82eb9d863462a4c42a64d40d1d3dbe6208139677
-MD5sum: c2eb37c3fbf715a7eacb340404d3057d
+Size: 70656
+SHA256: fa5b38d27a95d116833ac5710956fc6c52b66903bbdf4ebdebf02d0fe174a30f
+SHA1: 605d323508d1b91c4d8397650add8c5a294203a7
+MD5sum: 312be1bd33c69ca3d6839f668026a99c
 Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
