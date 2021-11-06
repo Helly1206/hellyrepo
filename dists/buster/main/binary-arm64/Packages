@@ -56,9 +56,9 @@ Priority: optional
 Section: net
 Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.83_all.deb
 Size: 70656
-SHA256: fa5b38d27a95d116833ac5710956fc6c52b66903bbdf4ebdebf02d0fe174a30f
-SHA1: 605d323508d1b91c4d8397650add8c5a294203a7
-MD5sum: 312be1bd33c69ca3d6839f668026a99c
+SHA256: de32a0f6437ec70cbe73e344237cdab1e30bbc53977d16ffd37d314bf582addc
+SHA1: 01fe0f4a266ecb972b7a8884c6304118208f7092
+MD5sum: caf846613bcc01191e8ade485d3cd99d
 Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
@@ -226,19 +226,19 @@ Description: s2hfs (sshfs wrapper for auto login)
 Plugin-Section: sharing
 
 Package: smartfancontrol
-Version: 0.84
+Version: 0.86
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 160
+Installed-Size: 159
 Depends: python3
 Recommends: pigpio (>= 1.71-0~rpt1)
 Priority: optional
 Section: net
-Filename: pool/main/s/smartfancontrol/smartfancontrol_0.84_all.deb
-Size: 26244
-SHA256: ce1b28f462e0b90f1a92d3956eb521bdc7e28a532f602420ae09eb9aabc2cea8
-SHA1: 4185d55a15bf23c2370df7ec366a090663a49d69
-MD5sum: 6256741245c17fdca3b1dd66328457bf
+Filename: pool/main/s/smartfancontrol/smartfancontrol_0.86_all.deb
+Size: 26340
+SHA256: 24d07de4e687cc21eb92fd09257f05a342484bb341669e8570a31e91a0ccda03
+SHA1: 64b2cbd340cd5a9683f922a2d9a4e40d824cb747
+MD5sum: dab708cb5e2901c99d3a3f18847ad0a1
 Description: SmartFanControl - keep it cool -
  service containing all in one fan and temperature control
 Plugin-Section: sharing
