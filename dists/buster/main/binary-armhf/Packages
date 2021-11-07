@@ -111,18 +111,18 @@ Description: cockpit-tools (Add links to external webtools to cockpit)
 Plugin-Section: sharing
 
 Package: cockpit-xnas
-Version: 0.90
+Version: 0.92
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 89
+Installed-Size: 91
 Depends: xnas (>= 0.99), cockpit, cockpit-stdplgin (>= 0.86)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-xnas/cockpit-xnas_0.90_all.deb
-Size: 13748
-SHA256: 85670d2887104743a1664276fb1ad6ee559cdade2546fc479c03b89e7296fec1
-SHA1: 58e91516feada92436711b3e9c809306b6a2f175
-MD5sum: 5705caf72a4ed7d9b6a1f69ce52f336a
+Filename: pool/main/c/cockpit-xnas/cockpit-xnas_0.92_all.deb
+Size: 14264
+SHA256: 5e05df5a55c3ad30e0a532a0735301480a83dab8fbac39fff818d54ac4ff7d8b
+SHA1: b47d570ff37ba658c64a6bddec7754e1ee8d569d
+MD5sum: 343b7ee450e0309f7ad05b8e6f7f75c5
 Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
@@ -276,18 +276,18 @@ Description: SyncWatch service to synchronize 2 locations on file or folder chan
 Plugin-Section: sharing
 
 Package: xnas
-Version: 1.00
+Version: 1.02
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 577
+Installed-Size: 597
 Depends: python3, python3-pip
 Priority: optional
 Section: net
-Filename: pool/main/x/xnas/xnas_1.00_all.deb
-Size: 71804
-SHA256: db3fbcd28d0a085c85f61bf5e26c99187b2ca2650e2bf2d7376bf9cca3aa94c9
-SHA1: 5a3674689379a5b54904b41132068dd321f2af63
-MD5sum: c57f23f6feaef962ace933fc556ff404
+Filename: pool/main/x/xnas/xnas_1.02_all.deb
+Size: 74216
+SHA256: e23f5c6877874e36a6f65f0320cd6506777c5863561f582f65339ef96981769e
+SHA1: 8a09969438c50a454d2b613d3b4a5f682b4062f8
+MD5sum: 8736c3e0decad0924b281dbed8f47490
 Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
