@@ -210,18 +210,18 @@ Description: rpipoweroff - Service to reboot or poweroff the raspberry pi
 Plugin-Section: sharing
 
 Package: s2hfs
-Version: 0.85
+Version: 0.86
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 84
 Depends: python3, python3-pip, sshpass, sshfs
 Priority: optional
 Section: net
-Filename: pool/main/s/s2hfs/s2hfs_0.85_all.deb
+Filename: pool/main/s/s2hfs/s2hfs_0.86_all.deb
 Size: 15048
-SHA256: e3b54033f088a985ae4c85df0ea117007c1237ca2bf490af7988a7a0d20842e7
-SHA1: e2bbac2c9708b28d765cd7721eb6f4877a0c50c4
-MD5sum: e2be66018af81840ab5cc596a3a93dba
+SHA256: ecdf884ac71234212ecfb197646e2950d0280cf6465a6046c3228deb90bb5950
+SHA1: 0468f91afa0a83677522a9d03c0bebd00915bf14
+MD5sum: bbb2b5abc6a1067e18a23d99173856aa
 Description: s2hfs (sshfs wrapper for auto login)
 Plugin-Section: sharing
 
