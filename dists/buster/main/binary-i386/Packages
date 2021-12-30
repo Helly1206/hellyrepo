@@ -131,14 +131,14 @@ Version: 1.38
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 1133
-Depends: python3, python3-pip, sqlite3
+Depends: python3, python3-pip, python3-apt, sqlite3
 Priority: optional
 Section: net
 Filename: pool/main/d/domotion/domotion_1.38_all.deb
-Size: 167844
-SHA256: 570b945fb7369ca730370f1f1d94067aeccef034f16346cec75734e65ee37202
-SHA1: 20005ec9a1314b5355a0afd9728e1de2f70184f7
-MD5sum: 6c302dcd8f0828e8ae0b06c30f5ff254
+Size: 167852
+SHA256: 8b895f7f2588865fce4e9dda8c0cc5e216f1f76a13bf245be2fe987071d1b176
+SHA1: 484c059045914d5aa74ca10247b61f566d62f090
+MD5sum: 04a5b8df611ce9494cabc8d696d9105c
 Description: Domotion (Home Control and Automation)
 Plugin-Section: sharing
 
