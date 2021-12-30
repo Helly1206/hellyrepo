@@ -127,18 +127,18 @@ Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
 Package: domotion
-Version: 1.37
+Version: 1.38
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 1133
 Depends: python3, python3-pip, sqlite3
 Priority: optional
 Section: net
-Filename: pool/main/d/domotion/domotion_1.37_all.deb
-Size: 168124
-SHA256: c1f4482acd3e925a83253ba369049161c52cf95c7eb599f0bd7f8dfce376e27d
-SHA1: 72c0daff80f24012ce99606b2f9576c3a1690502
-MD5sum: 9a72632ee0e9a953ab65c4ec502975f4
+Filename: pool/main/d/domotion/domotion_1.38_all.deb
+Size: 167844
+SHA256: 570b945fb7369ca730370f1f1d94067aeccef034f16346cec75734e65ee37202
+SHA1: 20005ec9a1314b5355a0afd9728e1de2f70184f7
+MD5sum: 6c302dcd8f0828e8ae0b06c30f5ff254
 Description: Domotion (Home Control and Automation)
 Plugin-Section: sharing
 
