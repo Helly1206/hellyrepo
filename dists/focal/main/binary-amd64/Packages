@@ -210,18 +210,18 @@ Description: SmartFanControl - keep it cool -
 Plugin-Section: sharing
 
 Package: smarthome
-Version: 0.90
+Version: 0.95
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 188
+Installed-Size: 197
 Depends: python3, python3-pip
 Priority: optional
 Section: net
-Filename: pool/main/s/smarthome/smarthome_0.90_all.deb
-Size: 32496
-SHA256: fe65ca44885740e7d79e75ca1e360f938eaffb28818edba567880f4c9c20002f
-SHA1: 337abae866c1d162e275049ad5aa2b5d839ca331
-MD5sum: 2ba2237ba7db8d3ae6933d1614f54fa2
+Filename: pool/main/s/smarthome/smarthome_0.95_all.deb
+Size: 34136
+SHA256: b28762e3d06c9f64dd5dbf5f74f46c142f4893980e87f1a65ca38c8aa220753b
+SHA1: 11f9113ef1c0b2cdbad28e152edd54cb48def2c2
+MD5sum: d1c74da52515b220c5cba0371ce1fe91
 Description: SmartHome (Google smarthome multiplexer)
 Plugin-Section: sharing
 
