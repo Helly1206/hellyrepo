@@ -18,5 +18,5 @@ sudo apt-key del BAD95BBE342B55E5<br>
 wget -qO - https://Helly1206.github.io/hellyrepo/public_key | sudo apt-key add -<br>
 
 Older distros:<br>
-ubuntu 20.04 focal fossa
+ubuntu 20.04 focal fossa<br>
 wget -qO - https://Helly1206.github.io/hellyrepo/hellyrepo_ubuntu_focal.list | sudo tee /etc/apt/sources.list.d/hellyrepo.list<br>
