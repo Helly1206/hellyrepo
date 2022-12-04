@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Helly1206.github.io/hellyrepo
 Label: Helly1206.github.io/hellyrepo
 Codename: jammy
-Date: Sun, 04 Dec 2022 10:07:16 UTC
+Date: Sun, 04 Dec 2022 10:12:14 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: Helly1206 apt repository for ubuntu jammy jellyfish
@@ -49,15 +49,15 @@ SHA256:
  fb416781c44e63d5866c5da359f2d3239eced0d008e62b8af73e76aa96414e18 176 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAmOMcVUACgkQutlbvjQr
-VeUqKwwAzdi1AQrqiosEy+p/72Y0UPZ9+NLxM1ngjK3EaNOkCkZ1eHFwAEX3rwEk
-jLVj8ZGmyN5MjUt413OHajRKmk/F4peWHe1odCMT3mRj1ss17bETpw6GBsBxkKn/
-l/exRbDJfOBqHxviN3EhCL7qNx02eL8Exn7OpkUqWiRcd4Af1dwEHoS5nxsoDorp
-n0WlOO52kVoqxB7IA3+4XrOML7RgUdOfL5/ha/i2XNg82VOfDRcwCUYMlt6T/tGA
-d/lgVx9bh0ktu7TQnRNUVtXNQs2buAtIgi6LSNpHckpm53WgcE7ZoYtAiWI2cuHB
-qRYuEZaiAWJSu0/b2hfxNyY5jxrvd5x5pI1AG5FQpmdCQed5lR1qjdsHjmcGN1Ij
-EZck1R5D/gS+X36w+J3syDDmjWLTJKmaWzj9qq9kmBmlEsb1OX/jfntHxR+kWXaG
-BPOvBXE0UK2dIks8DUdfvG95L0uuVliav9KeN5xTmBOo2CYWsy5xP4Kfl1Cukqi+
-AcbEUWYi
-=nr4Z
+iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAmOMcn4ACgkQutlbvjQr
+VeXcDQwAhf2bI5s70Zt72KB5q0PK8QZz3dNQHojFori53YK2IfYfint57qm/rrvX
+nlBXcHrHTWCfaPbJeU5rMpfs6dVOz8a5ytcnC58m8i8ebFst6+Lu5y60JZW4bRYI
++gkRKiBmF6D+gjptxJzPcWSkt6PtD2JMirAqe3iyiwWEJfo8N/JYAF7Q9qIz8cKW
+t7cQjDaRLLj3/L6iVQ7Ypf3GXp0l4UuAPnFsn0LH4Z2/PDHtAKIdszSrD8OTifZc
+2+FeRGTwzsHXT1ETZ1REE9uEIc1N+LVnJwQk9rLpBp4+09Ld63ewKUEB28nfROb9
+rkttVttgXWoA45A1u0LgITHYzRT+qYxSV4N5P5US6DIO6+tE4K+FVv5s/+fCTVyl
+QCy3oclR2/g3ZM4qITGsirnaiUKHgwwFj/8C02gKuF9mYT3ggFsO3hjIFmDhiWmE
+TGkgKU45y56Z23kD5xkLNLMKo9qOF/eRjFRDnidHaJJeJweqfTuDwJn1DCldz/hX
+TqzmZTN2
+=yU1C
 -----END PGP SIGNATURE-----

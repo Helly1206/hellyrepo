@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Helly1206.github.io/hellyrepo
 Label: Helly1206.github.io/hellyrepo
 Codename: focal
-Date: Sun, 04 Dec 2022 10:06:50 UTC
+Date: Sun, 04 Dec 2022 10:12:23 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: Helly1206 apt repository for ubuntu focal
@@ -49,15 +49,15 @@ SHA256:
  cf4b497f05f8a14eee9ed88f3e47166d82cf9129734f17000f11a092a28aac4a 166 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAmOMcToACgkQutlbvjQr
-VeVMPwv/TPmQZrAu325FgdIMy4w4l9D1ZKGv1TDYndol/IPpOSlh/Q9xNYWlRbvz
-QbJMrFdnUlS6HGyqjX4d6LZqzomZYDfqUyukFFYpBUZe6XYsO0Dxn6hlRgja70PE
-54b/QH5eV/6Vk+YCa/dLMkTQ8JHvUF2wP8WLdRTKatMvOEm3Jm0BquJTVfnocgnu
-IhUQlv0VMpL9kExyT4Sq9OOALg1ynzNQijh9tFUav2lE8sekVfMgm3bq9dfLC/6s
-tCYIgrY7wi0rqRFSf9DtXK92/n3fqcUC00vUfiZRwmmxICN4fiEEk7dnLGPZxtgb
-u/VmiSAtqugIIJY+3wlZpi4aIYY+WA7AKOemnMH2DasseXUC3MD454T8S7KUwVCj
-jzpzYS8ghSJHgkr7pj94ckCrXA2FQLJ3waKkZVNSS46EEU9GutPIgal6k6ucoKWx
-0OVogekdXYayi4TIs7H/HruPLJvjGQqZVJfbeBJzzYnEmC49HIdAv0xbFe0qUBrR
-gjwXGue3
-=3CPd
+iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAmOMcocACgkQutlbvjQr
+VeWcegv+LZThhjedgHd5gfce6WkSPdaoRtcA84Sa3WDcWonC6l65hGr5Ey3qGAsk
+n7EUAN7bKY18r5hdxRKzvGjXOQE6wOzdLZWLy9FuasIIVM3VTS/27sARxIikxMDl
+N2eiF5vG6j8JY8XPE48a7CXhPIO/koHYCizKGIloLJiob3kAGUL1Wi6OnY4Gd4a5
+nlDRyskuPIVT7SFzgcZGTxPFYDSEIAX7KOj46AOQWMQbfv26onpBaVaHQW9oAlJ9
+CMOvHDBTtKJSSvhTTpzpTXtDYc4s3k331VS4+HppN0VExV9JIebbGy33v+sifxM2
+i5t2V6l5ktEnGGApGv03Y40I/Z1Pm46mjc1IRCjgj90+NIApQ/Rj1h6//QPMRAdP
+WLehBWa0ak79+B898uOejUK6WfODBM6BMqm9/8r2s6NDcTATgjn32d9NyHHW4oF/
+dhOqZB7dx7OkhhxB6zd4oOYa6lCEuq0ghbw/AyFyvDRyNp4qyU2nLXNJ2nOJePJd
+BD0cok7b
+=NXzv
 -----END PGP SIGNATURE-----
