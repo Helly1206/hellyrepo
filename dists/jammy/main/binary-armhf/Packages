@@ -218,10 +218,10 @@ Depends: python3, python3-pip
 Priority: optional
 Section: net
 Filename: pool/main/s/smarthome/smarthome_0.96_all.deb
-Size: 34520
-SHA256: e59630ed7fa23f9c9516bbdfae23eca9ac5867f26bde335b2efa221b7f57a791
-SHA1: b5f7c3c57518dbaadca8660f3467983e7675de01
-MD5sum: 009a2b4dc636fd5d1849ded6b2fe21a2
+Size: 34208
+SHA256: 6292f7e0643423cab2f8c8f818cf912f6ba877a0634deb9eddc10d400ca1f1d9
+SHA1: b2c79c1796781f4c1e7835ac522fa4cb2e00547e
+MD5sum: 0f5c7f556f87424d66452c5e34ade70d
 Description: SmartHome (Google smarthome multiplexer)
 Plugin-Section: sharing
 
