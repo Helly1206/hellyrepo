@@ -152,9 +152,9 @@ Priority: optional
 Section: net
 Filename: pool/main/m/mqttlogger/mqttlogger_0.80_all.deb
 Size: 17388
-SHA256: 5927235a5fc219a508566ebe9f54378286a602d518043ede8dc76726d3eaf4a1
-SHA1: 026ad38a6e8101c5b8cfe30ee374df614af10aa3
-MD5sum: f37a98e2a008e96916ef6966cd3dd740
+SHA256: 869103ad2ce9f99bcb8c907f1f1eb2963a28f748a2d94375bc719872a0105313
+SHA1: 478a917ac5c8c9a63f91a74daa51fb187e7a1c7c
+MD5sum: 63f0464bb8df6c391854c71b65b79a47
 Description: mqttlogger (logging of MQTT traffic)
 Plugin-Section: sharing
 
