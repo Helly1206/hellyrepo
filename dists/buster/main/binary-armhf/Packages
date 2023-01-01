@@ -142,6 +142,22 @@ MD5sum: 04a5b8df611ce9494cabc8d696d9105c
 Description: Domotion (Home Control and Automation)
 Plugin-Section: sharing
 
+Package: mqttlogger
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 73
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/m/mqttlogger/mqttlogger_0.80_all.deb
+Size: 17388
+SHA256: 5927235a5fc219a508566ebe9f54378286a602d518043ede8dc76726d3eaf4a1
+SHA1: 026ad38a6e8101c5b8cfe30ee374df614af10aa3
+MD5sum: f37a98e2a008e96916ef6966cd3dd740
+Description: mqttlogger (logging of MQTT traffic)
+Plugin-Section: sharing
+
 Package: openmediavault-smartfancontrol
 Version: 5.0
 Architecture: all
