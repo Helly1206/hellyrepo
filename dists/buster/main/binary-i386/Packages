@@ -291,6 +291,22 @@ MD5sum: 8011677fefe8090ea5ecd85aea038278
 Description: SyncWatch service to synchronize 2 locations on file or folder change
 Plugin-Section: sharing
 
+Package: udplogger
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 70
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/u/udplogger/udplogger_0.80_all.deb
+Size: 16996
+SHA256: fb967b71b9eee0b3369e8735729c05582b6f1b1cfa8de8368fdeb2c9ef2c23ed
+SHA1: 7399877779d0c4e71d547b0a3ecc147364ad9234
+MD5sum: 394ba9a857f5dac7d19bd77cfb8829d7
+Description: udplogger (logging of UDP traffic)
+Plugin-Section: sharing
+
 Package: xnas
 Version: 1.04
 Architecture: all
