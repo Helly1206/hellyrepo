@@ -103,10 +103,10 @@ Depends: cockpit, cockpit-stdplgin (>= 0.81), python3, python3-pip
 Priority: optional
 Section: net
 Filename: pool/main/c/cockpit-tools/cockpit-tools_0.84_all.deb
-Size: 36770
-SHA256: 0a115e761f11bbeacc86f6d87942b26f3cdc3c4a808b6bb56a5b34ae5f61b33d
-SHA1: e6e17b71ff027005f8283b85fdfb36816dddf1a2
-MD5sum: 5ae4311522a70bf5ffd73d48d91599fd
+Size: 36742
+SHA256: ee54d2ecf9e6d28be35e5d5d952fd9de18394f763dff90c639bb354eb998b24d
+SHA1: 2b0392491fba6eeae5184472f259ea920d766d3d
+MD5sum: e39c88bc4e02eab8d57e6feed01dfb55
 Description: cockpit-tools (Add links to external webtools to cockpit)
 Plugin-Section: sharing
 
