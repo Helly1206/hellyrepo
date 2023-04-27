@@ -63,18 +63,18 @@ Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
 Package: cockpit-stdplgin
-Version: 0.90
+Version: 0.91
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 104
+Installed-Size: 105
 Depends: cockpit
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.90_all.deb
-Size: 20264
-SHA256: d6e9985d2508b1800fbb688c77d3bd3b9d4d29203c6a118fbc50be26fcee0332
-SHA1: f10d0c50517d4074c17dcde0a8c9e7b29c3223e7
-MD5sum: 72c9140197819869ec88443bff809f67
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.91_all.deb
+Size: 20472
+SHA256: 547aabc534857c3262ef930847555a62ac0662646d3f617fbee402216add534b
+SHA1: 7f0224ed09a158c124f873d7d046e53faff1840d
+MD5sum: d414cd5ccb5c86d6d3ec85fcb88a3f7b
 Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
 Plugin-Section: sharing
 
