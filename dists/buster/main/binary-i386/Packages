@@ -30,6 +30,22 @@ MD5sum: b8b448804f2c84e7b9512447bbd27bd5
 Description: app-weather-standalone (Domotion app obtaining weather)
 Plugin-Section: sharing
 
+Package: cockpit-fancontrol
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 274
+Depends: python3, python3-pip, lm-sensors, fancontrol, cockpit, cockpit-stdplgin (>= 0.91)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-fancontrol/cockpit-fancontrol_0.80_all.deb
+Size: 75936
+SHA256: c370381d1e4e06923a3a13fc2e5662dcebde1565ffa9f8ebaac7e113a21d9788
+SHA1: b18fffe89af782a0a53ceb32bbb752659f146fbb
+MD5sum: 2067ec6ccbd8bc87a6482c9b3ef876fb
+Description: cockpit-fancontrol (cockpit UI for fancontrol)
+Plugin-Section: sharing
+
 Package: cockpit-openvpn
 Version: 0.85
 Architecture: all
