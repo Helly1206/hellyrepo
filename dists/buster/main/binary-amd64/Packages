@@ -127,18 +127,18 @@ Description: cockpit-tools (Add links to external webtools to cockpit)
 Plugin-Section: sharing
 
 Package: cockpit-xnas
-Version: 1.00
+Version: 1.01
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 81
-Depends: xnas (>= 1.10), cockpit, cockpit-stdplgin (>= 0.86)
+Depends: xnas (>= 1.11), cockpit, cockpit-stdplgin (>= 0.86)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-xnas/cockpit-xnas_1.00_all.deb
-Size: 13612
-SHA256: 267ca6cf5b07c367f40f27a208bb4891bba80da05c97bd106fc45e86fbb4d920
-SHA1: c94d89005dc200c0e29b0c9b0dfe8bb2592b678a
-MD5sum: 1ae1cb041663ee2ffc848e9c0e15dbb2
+Filename: pool/main/c/cockpit-xnas/cockpit-xnas_1.01_all.deb
+Size: 13716
+SHA256: 0dcb2c09b325c3c4e667d191812f5718a99b9b24195493d6fa48f35f64bcac44
+SHA1: 10aef3374708170258db1c623a314b3147140cc8
+MD5sum: fb8c1f9bc6d4113813c2820e61fccbf4
 Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
@@ -324,18 +324,18 @@ Description: udplogger (logging of UDP traffic)
 Plugin-Section: sharing
 
 Package: xnas
-Version: 1.10
+Version: 1.11
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 597
+Installed-Size: 600
 Depends: python3, python3-pip
 Priority: optional
 Section: net
-Filename: pool/main/x/xnas/xnas_1.10_all.deb
-Size: 75700
-SHA256: 9da65d87c96fb353bb77354603a4161447cdac755963b2a4d5ce0dec68c298b4
-SHA1: e26a8883f502793adb5a00f606882198eae5f1b9
-MD5sum: 72ff97e9cb098cbe348ae6ee3ad05b13
+Filename: pool/main/x/xnas/xnas_1.11_all.deb
+Size: 76206
+SHA256: 82ced8bac12931a90af81652ff6f61031ba645f4a4b11762679c2cb68fea2326
+SHA1: 921321a1250f063f076a38f42c2948873905ad19
+MD5sum: d7ee55b1a8cce4217ad45d00d87726df
 Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
