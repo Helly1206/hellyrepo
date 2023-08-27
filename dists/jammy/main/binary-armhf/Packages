@@ -158,6 +158,22 @@ MD5sum: 04a5b8df611ce9494cabc8d696d9105c
 Description: Domotion (Home Control and Automation)
 Plugin-Section: sharing
 
+Package: mqtt433mhz
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 80
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/m/mqtt433mhz/mqtt433mhz_0.80_all.deb
+Size: 18516
+SHA256: affc613d9956a7137d9f7b4d8f7744aab38d789981f59a0c3df3aec7f15c94cb
+SHA1: eeca3991ebfa2670e962e957d4d320e356026813
+MD5sum: 245b6b3652174952a2cb36b15ecbfd71
+Description: mqtt433MHz (433 MHz to MQTT translator)
+Plugin-Section: sharing
+
 Package: mqttlogger
 Version: 0.80
 Architecture: all
