@@ -1,35 +1,3 @@
-Package: app-weather
-Version: 0.93
-Architecture: all
-Maintainer: Helly1206
-Installed-Size: 54
-Depends: domotion, python3, python3-pip
-Priority: optional
-Section: net
-Filename: pool/main/a/app-weather/app-weather_0.93_all.deb
-Size: 7004
-SHA256: fe17d578709e0c5bf01dbd7d4ff90f5cb8f3a126358465de03ece2e79d11b855
-SHA1: 783bf9294e0573c45b0336c3d3db92e47199cde5
-MD5sum: a1d6bef5ff5b6e05266c34404f44d111
-Description: app-weather (Domotion app obtaining weather)
-Plugin-Section: sharing
-
-Package: app-weather-standalone
-Version: 0.93
-Architecture: all
-Maintainer: Helly1206
-Installed-Size: 57
-Depends: python3, python3-pip
-Priority: optional
-Section: net
-Filename: pool/main/a/app-weather-standalone/app-weather-standalone_0.93_all.deb
-Size: 7484
-SHA256: e9fda94e56f2fb0b44f4d9ff83ff77f2872fcbe585028f31ca629628beb66867
-SHA1: c28a9d67370d676be0004f53fb5ef816a6f455d3
-MD5sum: b8b448804f2c84e7b9512447bbd27bd5
-Description: app-weather-standalone (Domotion app obtaining weather)
-Plugin-Section: sharing
-
 Package: cockpit-fancontrol
 Version: 0.80
 Architecture: all
@@ -140,22 +108,6 @@ SHA256: 0dcb2c09b325c3c4e667d191812f5718a99b9b24195493d6fa48f35f64bcac44
 SHA1: 10aef3374708170258db1c623a314b3147140cc8
 MD5sum: fb8c1f9bc6d4113813c2820e61fccbf4
 Description: cockpit-xnas (cockpit UI for XNAS)
-Plugin-Section: sharing
-
-Package: domotion
-Version: 1.38
-Architecture: all
-Maintainer: Helly1206
-Installed-Size: 1133
-Depends: python3, python3-pip, python3-apt, sqlite3
-Priority: optional
-Section: net
-Filename: pool/main/d/domotion/domotion_1.38_all.deb
-Size: 167852
-SHA256: 8b895f7f2588865fce4e9dda8c0cc5e216f1f76a13bf245be2fe987071d1b176
-SHA1: 484c059045914d5aa74ca10247b61f566d62f090
-MD5sum: 04a5b8df611ce9494cabc8d696d9105c
-Description: Domotion (Home Control and Automation)
 Plugin-Section: sharing
 
 Package: mqtt433mhz
