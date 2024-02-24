@@ -110,6 +110,22 @@ MD5sum: fb8c1f9bc6d4113813c2820e61fccbf4
 Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
+Package: dcupdate
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 55
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/d/dcupdate/dcupdate_0.80_all.deb
+Size: 11260
+SHA256: 3b16508fc690aafcee1ac2d565aeef5c3468df05328e516b1818b3cebc2a9c26
+SHA1: 0b25f304a351e6ef1dff891935db6bd0ad0205b3
+MD5sum: e80d7f6e1aab2e8115af264fe60bb9bd
+Description: dcupdate (Docker Compose updater)
+Plugin-Section: sharing
+
 Package: mqtt433mhz
 Version: 0.82
 Architecture: all
