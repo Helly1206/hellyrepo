@@ -1,0 +1,5 @@
+Component: main
+Origin: Helly1206.github.io/hellyrepo
+Label: Helly1206.github.io/hellyrepo
+Architecture: armhf
+Description: Helly1206 apt repository for debian bookworm
