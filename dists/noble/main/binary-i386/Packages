@@ -127,18 +127,18 @@ Description: dcupdate (Docker Compose updater)
 Plugin-Section: sharing
 
 Package: iotusb
-Version: 0.90
+Version: 0.91
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 102
+Installed-Size: 104
 Depends: python3, python3-pip
 Priority: optional
 Section: net
-Filename: pool/main/i/iotusb/iotusb_0.90_all.deb
-Size: 18288
-SHA256: a763fa14df03077d607a7c2abda6a383c0a8f3886439cf89c84fa124c867304b
-SHA1: 879315a306808e6e7e99ea3e3d456d838a3974f2
-MD5sum: 3615a34ab57336857022fddb861d2f6e
+Filename: pool/main/i/iotusb/iotusb_0.91_all.deb
+Size: 18468
+SHA256: 43349ec8e8ff55226ad2dff38bb76a576b98dee5dae7ba77e03401d4c42a9b2f
+SHA1: 4d799b56a8ddd9f0dc0d5e698108f19959900a92
+MD5sum: e6ac17eca280f16fb1c4b98e3674cb10
 Description: iotusb (Control devices via USB)
 Plugin-Section: sharing
 
