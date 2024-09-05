@@ -127,18 +127,18 @@ Description: dcupdate (Docker Compose updater)
 Plugin-Section: sharing
 
 Package: iotusb
-Version: 0.91
+Version: 0.92
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 104
-Depends: python3, python3-pip
+Installed-Size: 119
+Depends: python3, python3-serial, python3-paho-mqtt, python3-yaml
 Priority: optional
 Section: net
-Filename: pool/main/i/iotusb/iotusb_0.91_all.deb
-Size: 18468
-SHA256: 43349ec8e8ff55226ad2dff38bb76a576b98dee5dae7ba77e03401d4c42a9b2f
-SHA1: 4d799b56a8ddd9f0dc0d5e698108f19959900a92
-MD5sum: e6ac17eca280f16fb1c4b98e3674cb10
+Filename: pool/main/i/iotusb/iotusb_0.92_all.deb
+Size: 22172
+SHA256: ec0774c1e4ddf79c624dcd4b01094cc680ead2011636730b01c796c79a0524d2
+SHA1: 8d9bcd712f862b24a8e5bfa7af184e7d0670e177
+MD5sum: 3fe56999ab8733339f1a180553d893f2
 Description: iotusb (Control devices via USB)
 Plugin-Section: sharing
 
@@ -258,18 +258,18 @@ Description: SmartHome (Google smarthome multiplexer)
 Plugin-Section: sharing
 
 Package: syncwatch
-Version: 0.95
+Version: 0.96
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 64
-Depends: rsync, python3
+Installed-Size: 63
+Depends: rsync, python3, python3-watchdog
 Priority: optional
 Section: net
-Filename: pool/main/s/syncwatch/syncwatch_0.95_all.deb
-Size: 13480
-SHA256: 253a019aee273781aa61f663172918181ad9fbee77aee402b3c8b07c3ffa7a71
-SHA1: c7c8760953189a5b2df40c47fc7176c62de754a5
-MD5sum: 8011677fefe8090ea5ecd85aea038278
+Filename: pool/main/s/syncwatch/syncwatch_0.96_all.deb
+Size: 13712
+SHA256: b2a200fe6bab97dc2fedf7ab04f8790c4cc7723f89489fad3f46ed972ddd6348
+SHA1: aca755406e32bd49267cb40b438b6d079af5d772
+MD5sum: 85d2a66ebef8813737fbcf5a599c669e
 Description: SyncWatch service to synchronize 2 locations on file or folder change
 Plugin-Section: sharing
 
@@ -290,18 +290,18 @@ Description: udplogger (logging of UDP traffic)
 Plugin-Section: sharing
 
 Package: xnas
-Version: 1.11
+Version: 1.12
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 600
-Depends: python3, python3-pip
+Installed-Size: 601
+Depends: python3, python3-watchdog
 Priority: optional
 Section: net
-Filename: pool/main/x/xnas/xnas_1.11_all.deb
-Size: 76206
-SHA256: 82ced8bac12931a90af81652ff6f61031ba645f4a4b11762679c2cb68fea2326
-SHA1: 921321a1250f063f076a38f42c2948873905ad19
-MD5sum: d7ee55b1a8cce4217ad45d00d87726df
+Filename: pool/main/x/xnas/xnas_1.12_all.deb
+Size: 76182
+SHA256: 644bceaeb93ab1dd6fd681511b5e49a6c21bff31e7763d09c93f1241e487b9e2
+SHA1: 17bd9fc96540b62cf62304c65cecdfa8755d8a75
+MD5sum: 0a55500e0a327debde6f2bcda3df973f
 Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
