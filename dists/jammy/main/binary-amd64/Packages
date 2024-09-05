@@ -79,18 +79,18 @@ Description: cockpit-syncwatch (cockpit UI for SyncWatch)
 Plugin-Section: sharing
 
 Package: cockpit-tools
-Version: 0.84
+Version: 0.85
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 70
-Depends: cockpit, cockpit-stdplgin (>= 0.81), python3, python3-pip
+Installed-Size: 71
+Depends: cockpit, cockpit-stdplgin (>= 0.93), python3, python3-pil
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-tools/cockpit-tools_0.84_all.deb
-Size: 36742
-SHA256: ee54d2ecf9e6d28be35e5d5d952fd9de18394f763dff90c639bb354eb998b24d
-SHA1: 2b0392491fba6eeae5184472f259ea920d766d3d
-MD5sum: e39c88bc4e02eab8d57e6feed01dfb55
+Filename: pool/main/c/cockpit-tools/cockpit-tools_0.85_all.deb
+Size: 36734
+SHA256: 7fbb2ebefe94b15587feeb9d47954e7ce265886595072149f338f5c176421812
+SHA1: 3db14f6e8298c56ca7615aef0517894456690fc1
+MD5sum: 1a1b7a18f6bfc004bbbd766874466775
 Description: cockpit-tools (Add links to external webtools to cockpit)
 Plugin-Section: sharing
 
