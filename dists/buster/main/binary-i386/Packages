@@ -1,80 +1,80 @@
 Package: cockpit-fancontrol
-Version: 0.80
+Version: 0.81
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 274
-Depends: python3, python3-pip, lm-sensors, fancontrol, cockpit, cockpit-stdplgin (>= 0.91)
+Depends: python3, python3-pip, lm-sensors, fancontrol, cockpit, cockpit-stdplgin (>= 0.93)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-fancontrol/cockpit-fancontrol_0.80_all.deb
-Size: 75936
-SHA256: c370381d1e4e06923a3a13fc2e5662dcebde1565ffa9f8ebaac7e113a21d9788
-SHA1: b18fffe89af782a0a53ceb32bbb752659f146fbb
-MD5sum: 2067ec6ccbd8bc87a6482c9b3ef876fb
+Filename: pool/main/c/cockpit-fancontrol/cockpit-fancontrol_0.81_all.deb
+Size: 75814
+SHA256: 07790c783e88b5585f738acfaa5b593cdcf2cd93982c1d76129f73e96f56867f
+SHA1: b44942200da2ca188f26e3dbefcf6bfbc896ae28
+MD5sum: e61b135c524593cae4716072cc193547
 Description: cockpit-fancontrol (cockpit UI for fancontrol)
 Plugin-Section: sharing
 
 Package: cockpit-openvpn
-Version: 0.85
+Version: 0.88
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 83
-Depends: openvpn, easy-rsa, python3, python3-pip, cockpit, cockpit-stdplgin (>= 0.81)
+Installed-Size: 81
+Depends: openvpn, easy-rsa, python3, python3-pip, cockpit, cockpit-stdplgin (>= 0.93)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.85_all.deb
-Size: 15228
-SHA256: 153251afc075316e1f891f9c099ad53c1e6d16ee99aead96e0b6af776798e801
-SHA1: 88aee58e6e5f6725be3c4a1d1256aaa000fb9b0b
-MD5sum: 936d600f4295003e859e4cea6b8b1f29
+Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.88_all.deb
+Size: 15148
+SHA256: 7f0da64a2a6b3dfc637e207abc664f34e99ef3666224fe57d46e377c619171a8
+SHA1: a45e1ebfe340b9ed3cbf82ba602460ea1311b7bc
+MD5sum: 609544cb02b21a6784711e20cb04b553
 Description: cockpit-openvpn (cockpit UI openVPN setup and certificate management)
 Plugin-Section: sharing
 
 Package: cockpit-smartfancontrol
-Version: 0.83
+Version: 0.86
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 258
-Depends: python3, smartfancontrol (>= 0.83), cockpit, cockpit-stdplgin (>= 0.87)
+Installed-Size: 255
+Depends: python3, python3-pip, smartfancontrol (>= 0.86), cockpit, cockpit-stdplgin (>= 0.93)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.83_all.deb
-Size: 70656
-SHA256: de32a0f6437ec70cbe73e344237cdab1e30bbc53977d16ffd37d314bf582addc
-SHA1: 01fe0f4a266ecb972b7a8884c6304118208f7092
-MD5sum: caf846613bcc01191e8ade485d3cd99d
+Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.86_all.deb
+Size: 72246
+SHA256: 0c01511d9540d30dfedbb37d8ef81750725edd36e33d5705fb3a9fb97f620c1d
+SHA1: ffe7c64c88da9a22afe5f6132bdc68053fb91192
+MD5sum: 415ceb518ad9f441c47097c98faa2dc2
 Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
 Plugin-Section: sharing
 
 Package: cockpit-stdplgin
-Version: 0.91
+Version: 0.93
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 105
+Installed-Size: 3117
 Depends: cockpit
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.91_all.deb
-Size: 20472
-SHA256: 547aabc534857c3262ef930847555a62ac0662646d3f617fbee402216add534b
-SHA1: 7f0224ed09a158c124f873d7d046e53faff1840d
-MD5sum: d414cd5ccb5c86d6d3ec85fcb88a3f7b
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.93_all.deb
+Size: 1146270
+SHA256: 2981a858329624c72e2167b79b39d48240f2bbdec8817e972749de576d1e6e46
+SHA1: 657904ad57d9ec3e87151c4d6a761c9a297ba45a
+MD5sum: 5439bfb2a9439981b11a81bfbc957f12
 Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
 Plugin-Section: sharing
 
 Package: cockpit-syncwatch
-Version: 0.81
+Version: 0.84
 Architecture: all
 Maintainer: Helly1206
-Installed-Size: 58
-Depends: python3, syncwatch (>= 0.85), cockpit, cockpit-stdplgin (>= 0.81)
+Installed-Size: 55
+Depends: python3, syncwatch (>= 0.85), cockpit, cockpit-stdplgin (>= 0.93)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-syncwatch/cockpit-syncwatch_0.81_all.deb
-Size: 10228
-SHA256: deb80cf2b03e63ab8f43c8e0672f20e2873250b8b587f6f9ba4b4a73eaf28956
-SHA1: 42452d9b4210c113598030df5c66f71a158ff954
-MD5sum: 7ea8dde2708850bafcbeb66a2a6f617a
+Filename: pool/main/c/cockpit-syncwatch/cockpit-syncwatch_0.84_all.deb
+Size: 9902
+SHA256: 012051892abd1ab179dd430f474d6ebd00b060fa8071e0dec9f1f93f671baa4a
+SHA1: 7684701ae339f8beb81c3185321758f4acf49847
+MD5sum: 20134c61182c5d4207949dfd9797f91c
 Description: cockpit-syncwatch (cockpit UI for SyncWatch)
 Plugin-Section: sharing
 
@@ -95,18 +95,18 @@ Description: cockpit-tools (Add links to external webtools to cockpit)
 Plugin-Section: sharing
 
 Package: cockpit-xnas
-Version: 1.01
+Version: 1.02
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 81
-Depends: xnas (>= 1.11), cockpit, cockpit-stdplgin (>= 0.86)
+Depends: xnas (>= 1.11), cockpit, cockpit-stdplgin (>= 0.93)
 Priority: optional
 Section: net
-Filename: pool/main/c/cockpit-xnas/cockpit-xnas_1.01_all.deb
+Filename: pool/main/c/cockpit-xnas/cockpit-xnas_1.02_all.deb
 Size: 13716
-SHA256: 0dcb2c09b325c3c4e667d191812f5718a99b9b24195493d6fa48f35f64bcac44
-SHA1: 10aef3374708170258db1c623a314b3147140cc8
-MD5sum: fb8c1f9bc6d4113813c2820e61fccbf4
+SHA256: 2c95e04beaf7ca3601dad00912e94ef52094655542f6c6ec7a0830beba04b3e1
+SHA1: d25034eb86106abb14cd57e6633c09d24c597fb4
+MD5sum: ad43d5e434339987524ef466909ed878
 Description: cockpit-xnas (cockpit UI for XNAS)
 Plugin-Section: sharing
 
