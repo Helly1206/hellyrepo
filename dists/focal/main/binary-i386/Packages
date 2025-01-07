@@ -306,18 +306,18 @@ Description: XNAS (Extended NAS functionality on a linux computer)
 Plugin-Section: sharing
 
 Package: xvr
-Version: 0.80
+Version: 0.81
 Architecture: all
 Maintainer: Helly1206
 Installed-Size: 1656
 Depends: ffmpeg, python3, python3-paho-mqtt, python3-yaml, python3-httpx, python3-ciso8601, python3-urllib3, python3-psutil
 Priority: optional
 Section: net
-Filename: pool/main/x/xvr/xvr_0.80_all.deb
-Size: 156864
-SHA256: 04b11634c0d893399483972a71b02d04748de995f16e649daed9cfc3beeb5179
-SHA1: 47be765ebcf608fe0b9155d690d01a626e1b5767
-MD5sum: 16ade3b1b9a1df8c8c4899fafca143a5
+Filename: pool/main/x/xvr/xvr_0.81_all.deb
+Size: 157168
+SHA256: 04f33ae396fe51d16a742aa9c4cee568dec990a4966c1ec9ca986d72ddc9f020
+SHA1: 28d10f0f8aebe228bd962e1a371f415193cbef6d
+MD5sum: f6a8dca711cd602f7955858b80275ed3
 Description: xvr (Simple but extended Network Video Recorder)
 Plugin-Section: sharing
 
