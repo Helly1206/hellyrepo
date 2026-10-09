@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Helly1206.github.io/hellyrepo
+Label: Helly1206.github.io/hellyrepo
+Codename: resolute
+Date: Fri, 09 Oct 2026 06:31:08 UTC
+Architectures: i386 amd64 armhf arm64
+Components: main
+Description: Helly1206 apt repository for ubuntu resolute raccoon
+MD5Sum:
+ de368492d3ce0e5786ac9828b14433a9 10114 main/binary-i386/Packages
+ c196a8cea20e61deff1f9443692e2569 3389 main/binary-i386/Packages.gz
+ 79091c0c7b69c8631a701b8490a64b48 176 main/binary-i386/Release
+ de368492d3ce0e5786ac9828b14433a9 10114 main/binary-amd64/Packages
+ c196a8cea20e61deff1f9443692e2569 3389 main/binary-amd64/Packages.gz
+ 4c50172aabf0b0de9a9aff2f784740e0 177 main/binary-amd64/Release
+ de368492d3ce0e5786ac9828b14433a9 10114 main/binary-armhf/Packages
+ c196a8cea20e61deff1f9443692e2569 3389 main/binary-armhf/Packages.gz
+ 203a6fb8ef06c978c4af196e7a6bd843 177 main/binary-armhf/Release
+ de368492d3ce0e5786ac9828b14433a9 10114 main/binary-arm64/Packages
+ c196a8cea20e61deff1f9443692e2569 3389 main/binary-arm64/Packages.gz
+ 2d0c6dcec7182d8cd43e737caec1d7ec 177 main/binary-arm64/Release
+SHA1:
+ 6bccae4d322b20d19155179733dd7c0adb7865d6 10114 main/binary-i386/Packages
+ 5360db1673669c865606f6e91af4986a1373cc85 3389 main/binary-i386/Packages.gz
+ d621b7a789eb156c5ed44249f8a1cf9adab52988 176 main/binary-i386/Release
+ 6bccae4d322b20d19155179733dd7c0adb7865d6 10114 main/binary-amd64/Packages
+ 5360db1673669c865606f6e91af4986a1373cc85 3389 main/binary-amd64/Packages.gz
+ a166b1b1a84b6ab73428c04924043a6cd6f32fa9 177 main/binary-amd64/Release
+ 6bccae4d322b20d19155179733dd7c0adb7865d6 10114 main/binary-armhf/Packages
+ 5360db1673669c865606f6e91af4986a1373cc85 3389 main/binary-armhf/Packages.gz
+ e300529d191f89c21ab3c76d70b20eed8319cf39 177 main/binary-armhf/Release
+ 6bccae4d322b20d19155179733dd7c0adb7865d6 10114 main/binary-arm64/Packages
+ 5360db1673669c865606f6e91af4986a1373cc85 3389 main/binary-arm64/Packages.gz
+ d927242de1ac8196d560a0072631a98e4cf314e7 177 main/binary-arm64/Release
+SHA256:
+ 1b0c095eb9ca10a92ff9a4ed73b17cde20dabf589d0e63448142f2bcca4ba4d7 10114 main/binary-i386/Packages
+ 00b9eadb8c345b3f46a2cdbf9283d9c36690fb1e0a8f540820494ea09cf58199 3389 main/binary-i386/Packages.gz
+ 3430ad63868fbae37a898845e73c1f45dd8e4e3398100a5b2acb3e1b080e1ed3 176 main/binary-i386/Release
+ 1b0c095eb9ca10a92ff9a4ed73b17cde20dabf589d0e63448142f2bcca4ba4d7 10114 main/binary-amd64/Packages
+ 00b9eadb8c345b3f46a2cdbf9283d9c36690fb1e0a8f540820494ea09cf58199 3389 main/binary-amd64/Packages.gz
+ 3057eb2c875df55e9bfe7b3b82621389b3c0da27104f2a82033a4cc5dc6ea766 177 main/binary-amd64/Release
+ 1b0c095eb9ca10a92ff9a4ed73b17cde20dabf589d0e63448142f2bcca4ba4d7 10114 main/binary-armhf/Packages
+ 00b9eadb8c345b3f46a2cdbf9283d9c36690fb1e0a8f540820494ea09cf58199 3389 main/binary-armhf/Packages.gz
+ df835df6ed17343a59fc04c2f77ce41b8f4915c95015633ea245961010ed034f 177 main/binary-armhf/Release
+ 1b0c095eb9ca10a92ff9a4ed73b17cde20dabf589d0e63448142f2bcca4ba4d7 10114 main/binary-arm64/Packages
+ 00b9eadb8c345b3f46a2cdbf9283d9c36690fb1e0a8f540820494ea09cf58199 3389 main/binary-arm64/Packages.gz
+ c1d382961d05c2c91417c6f08d12551ddad675b6e1214e43025161dd1f774687 177 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEm7JsGMC6KQbbFoU2utlbvjQrVeUFAmrIijAACgkQutlbvjQr
+VeUr5gv9G2AMjO0cJfngefNPaaybHMTAnVIu+WQ252ntq1SAKmxOyke/mQYqNJ5E
+Z98Sro+JExwo8bR4/KeyJYUOE1l1BAvrmZ308Ty+tYR3ZdUhasQEJ0RUBsvagGg6
+jZBs2bc9et/anotP6a2lgro2pHoPPirLjdKyDT0/fO1gLO4MqIT3N6Lr6nBuiupq
+0V9KAJgo/viRIQB3rqeRq8Ue4ph+sjlFh6hzx3TwnIAGLdlLK92nXfF9kZgJnuvb
+Pn9CZmJ8fAdxLyumq8WhtReiOxU3Jk2DAoLFfz+K86z7KGtBtpeOOqK2IjnfWOaZ
+tP8Qav5TMrCh4zHYw3mqWRaAyRU/v5Ef0sM6gLuZsGGr/4pDaeTMlCbua0njyRyG
+Ws0Y5eqvUqt1kXXrDss/5/CbRlMz1lwxbamFU/c9xmbBVpYAgK6Sxba1r4cAoFZy
+JMqvAfPLTw9hftojGT2Fy+BCF0ayCfUHnBSrAV8cEMZ+t1CSWl3iYMACRgwFV867
+dQsOJk65
+=agO/
+-----END PGP SIGNATURE-----

@@ -1,0 +1,323 @@
+Package: cockpit-fancontrol
+Version: 0.81
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 274
+Depends: python3, python3-pip, lm-sensors, fancontrol, cockpit, cockpit-stdplgin (>= 0.93)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-fancontrol/cockpit-fancontrol_0.81_all.deb
+Size: 75814
+SHA256: 07790c783e88b5585f738acfaa5b593cdcf2cd93982c1d76129f73e96f56867f
+SHA1: b44942200da2ca188f26e3dbefcf6bfbc896ae28
+MD5sum: e61b135c524593cae4716072cc193547
+Description: cockpit-fancontrol (cockpit UI for fancontrol)
+Plugin-Section: sharing
+
+Package: cockpit-openvpn
+Version: 0.88
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 81
+Depends: openvpn, easy-rsa, python3, python3-pip, cockpit, cockpit-stdplgin (>= 0.93)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-openvpn/cockpit-openvpn_0.88_all.deb
+Size: 15148
+SHA256: 7f0da64a2a6b3dfc637e207abc664f34e99ef3666224fe57d46e377c619171a8
+SHA1: a45e1ebfe340b9ed3cbf82ba602460ea1311b7bc
+MD5sum: 609544cb02b21a6784711e20cb04b553
+Description: cockpit-openvpn (cockpit UI openVPN setup and certificate management)
+Plugin-Section: sharing
+
+Package: cockpit-smartfancontrol
+Version: 0.86
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 255
+Depends: python3, python3-pip, smartfancontrol (>= 0.86), cockpit, cockpit-stdplgin (>= 0.93)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-smartfancontrol/cockpit-smartfancontrol_0.86_all.deb
+Size: 72246
+SHA256: 0c01511d9540d30dfedbb37d8ef81750725edd36e33d5705fb3a9fb97f620c1d
+SHA1: ffe7c64c88da9a22afe5f6132bdc68053fb91192
+MD5sum: 415ceb518ad9f441c47097c98faa2dc2
+Description: cockpit-smartfancontrol (cockpit UI for smartfancontrol)
+Plugin-Section: sharing
+
+Package: cockpit-stdplgin
+Version: 0.93
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 3117
+Depends: cockpit
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-stdplgin/cockpit-stdplgin_0.93_all.deb
+Size: 1146270
+SHA256: 2981a858329624c72e2167b79b39d48240f2bbdec8817e972749de576d1e6e46
+SHA1: 657904ad57d9ec3e87151c4d6a761c9a297ba45a
+MD5sum: 5439bfb2a9439981b11a81bfbc957f12
+Description: cockpit-stdplgin (Standard plugin containing library modules for cockpit UI)
+Plugin-Section: sharing
+
+Package: cockpit-syncwatch
+Version: 0.84
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 55
+Depends: python3, syncwatch (>= 0.85), cockpit, cockpit-stdplgin (>= 0.93)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-syncwatch/cockpit-syncwatch_0.84_all.deb
+Size: 9902
+SHA256: 012051892abd1ab179dd430f474d6ebd00b060fa8071e0dec9f1f93f671baa4a
+SHA1: 7684701ae339f8beb81c3185321758f4acf49847
+MD5sum: 20134c61182c5d4207949dfd9797f91c
+Description: cockpit-syncwatch (cockpit UI for SyncWatch)
+Plugin-Section: sharing
+
+Package: cockpit-tools
+Version: 0.85
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 71
+Depends: cockpit, cockpit-stdplgin (>= 0.93), python3, python3-pil
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-tools/cockpit-tools_0.85_all.deb
+Size: 36734
+SHA256: 7fbb2ebefe94b15587feeb9d47954e7ce265886595072149f338f5c176421812
+SHA1: 3db14f6e8298c56ca7615aef0517894456690fc1
+MD5sum: 1a1b7a18f6bfc004bbbd766874466775
+Description: cockpit-tools (Add links to external webtools to cockpit)
+Plugin-Section: sharing
+
+Package: cockpit-xnas
+Version: 1.02
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 81
+Depends: xnas (>= 1.11), cockpit, cockpit-stdplgin (>= 0.93)
+Priority: optional
+Section: net
+Filename: pool/main/c/cockpit-xnas/cockpit-xnas_1.02_all.deb
+Size: 13716
+SHA256: 2c95e04beaf7ca3601dad00912e94ef52094655542f6c6ec7a0830beba04b3e1
+SHA1: d25034eb86106abb14cd57e6633c09d24c597fb4
+MD5sum: ad43d5e434339987524ef466909ed878
+Description: cockpit-xnas (cockpit UI for XNAS)
+Plugin-Section: sharing
+
+Package: dcupdate
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 55
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/d/dcupdate/dcupdate_0.80_all.deb
+Size: 11260
+SHA256: 3b16508fc690aafcee1ac2d565aeef5c3468df05328e516b1818b3cebc2a9c26
+SHA1: 0b25f304a351e6ef1dff891935db6bd0ad0205b3
+MD5sum: e80d7f6e1aab2e8115af264fe60bb9bd
+Description: dcupdate (Docker Compose updater)
+Plugin-Section: sharing
+
+Package: iotusb
+Version: 0.92
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 119
+Depends: python3, python3-serial, python3-paho-mqtt, python3-yaml
+Priority: optional
+Section: net
+Filename: pool/main/i/iotusb/iotusb_0.92_all.deb
+Size: 22172
+SHA256: ec0774c1e4ddf79c624dcd4b01094cc680ead2011636730b01c796c79a0524d2
+SHA1: 8d9bcd712f862b24a8e5bfa7af184e7d0670e177
+MD5sum: 3fe56999ab8733339f1a180553d893f2
+Description: iotusb (Control devices via USB)
+Plugin-Section: sharing
+
+Package: mqtt433mhz
+Version: 0.82
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 81
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/m/mqtt433mhz/mqtt433mhz_0.82_all.deb
+Size: 18828
+SHA256: b5a3ec1ad274fe4718a55ffeadc1fa6dabb20f3625c26f0240cd89fba7ee5249
+SHA1: 7b7cc3c3f279541dbd77eb983fb80f3a98dace22
+MD5sum: a8c50efb3a4fb4fcb2ce75e072ca7121
+Description: mqtt433MHz (433 MHz to MQTT translator)
+Plugin-Section: sharing
+
+Package: mqttlogger
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 73
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/m/mqttlogger/mqttlogger_0.80_all.deb
+Size: 17388
+SHA256: 869103ad2ce9f99bcb8c907f1f1eb2963a28f748a2d94375bc719872a0105313
+SHA1: 478a917ac5c8c9a63f91a74daa51fb187e7a1c7c
+MD5sum: 63f0464bb8df6c391854c71b65b79a47
+Description: mqttlogger (logging of MQTT traffic)
+Plugin-Section: sharing
+
+Package: pigpiobuilder
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 27
+Depends: python3, python3-setuptools
+Priority: optional
+Section: net
+Filename: pool/main/p/pigpiobuilder/pigpiobuilder_0.80_all.deb
+Size: 3644
+SHA256: e03336ff742d157202b087e1636fdb03b46c900595e77116bc93cf595949b60f
+SHA1: 491ec7ec445ae0d0243c93c9a789284036c1e4e7
+MD5sum: 0fb0b39d86d58b4fcc3137452c13f262
+Description: pigpio_builder (Automatic downloading and builing the latest version of pigpio with apt upgrade)
+Plugin-Section: sharing
+
+Package: rpipoweroff
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 39
+Depends: python3
+Recommends: pigpio (>= 1.71-0~rpt1)
+Priority: optional
+Section: net
+Filename: pool/main/r/rpipoweroff/rpipoweroff_0.80_all.deb
+Size: 8612
+SHA256: 2470f17e536d03d15cdc702dc288cf7b3844b571e8e452ee34f52ad29d602487
+SHA1: 28bd22f61af7ac5a3c0b76ffebeb2bc47935ca19
+MD5sum: c02cad83537a273c6268ac7774323c3e
+Description: rpipoweroff - Service to reboot or poweroff the raspberry pi
+Plugin-Section: sharing
+
+Package: s2hfs
+Version: 0.86
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 84
+Depends: python3, python3-pip, sshpass, sshfs
+Priority: optional
+Section: net
+Filename: pool/main/s/s2hfs/s2hfs_0.86_all.deb
+Size: 15048
+SHA256: ecdf884ac71234212ecfb197646e2950d0280cf6465a6046c3228deb90bb5950
+SHA1: 0468f91afa0a83677522a9d03c0bebd00915bf14
+MD5sum: bbb2b5abc6a1067e18a23d99173856aa
+Description: s2hfs (sshfs wrapper for auto login)
+Plugin-Section: sharing
+
+Package: smartfancontrol
+Version: 0.86
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 159
+Depends: python3
+Recommends: pigpio (>= 1.71-0~rpt1)
+Priority: optional
+Section: net
+Filename: pool/main/s/smartfancontrol/smartfancontrol_0.86_all.deb
+Size: 26340
+SHA256: 24d07de4e687cc21eb92fd09257f05a342484bb341669e8570a31e91a0ccda03
+SHA1: 64b2cbd340cd5a9683f922a2d9a4e40d824cb747
+MD5sum: dab708cb5e2901c99d3a3f18847ad0a1
+Description: SmartFanControl - keep it cool -
+ service containing all in one fan and temperature control
+Plugin-Section: sharing
+
+Package: smarthome
+Version: 1.01
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 225
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/s/smarthome/smarthome_1.01_all.deb
+Size: 37836
+SHA256: 3b0ed316b43744d4bddc8d4b7bd8223f0c06c047e64257cf2ecf0f8085aa5eaf
+SHA1: 19f62efd8be0c75a4270bf620762894bf11c7b20
+MD5sum: 887da7f24f72a655ca220a66bca0de3a
+Description: SmartHome (Google smarthome multiplexer)
+Plugin-Section: sharing
+
+Package: syncwatch
+Version: 0.96
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 63
+Depends: rsync, python3, python3-watchdog
+Priority: optional
+Section: net
+Filename: pool/main/s/syncwatch/syncwatch_0.96_all.deb
+Size: 13712
+SHA256: b2a200fe6bab97dc2fedf7ab04f8790c4cc7723f89489fad3f46ed972ddd6348
+SHA1: aca755406e32bd49267cb40b438b6d079af5d772
+MD5sum: 85d2a66ebef8813737fbcf5a599c669e
+Description: SyncWatch service to synchronize 2 locations on file or folder change
+Plugin-Section: sharing
+
+Package: udplogger
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 70
+Depends: python3, python3-pip
+Priority: optional
+Section: net
+Filename: pool/main/u/udplogger/udplogger_0.80_all.deb
+Size: 16996
+SHA256: fb967b71b9eee0b3369e8735729c05582b6f1b1cfa8de8368fdeb2c9ef2c23ed
+SHA1: 7399877779d0c4e71d547b0a3ecc147364ad9234
+MD5sum: 394ba9a857f5dac7d19bd77cfb8829d7
+Description: udplogger (logging of UDP traffic)
+Plugin-Section: sharing
+
+Package: xnas
+Version: 1.12
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 601
+Depends: python3, python3-watchdog
+Priority: optional
+Section: net
+Filename: pool/main/x/xnas/xnas_1.12_all.deb
+Size: 76182
+SHA256: 644bceaeb93ab1dd6fd681511b5e49a6c21bff31e7763d09c93f1241e487b9e2
+SHA1: 17bd9fc96540b62cf62304c65cecdfa8755d8a75
+MD5sum: 0a55500e0a327debde6f2bcda3df973f
+Description: XNAS (Extended NAS functionality on a linux computer)
+Plugin-Section: sharing
+
+Package: xvr
+Version: 0.82
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 1656
+Depends: ffmpeg, python3, python3-paho-mqtt, python3-yaml, python3-httpx, python3-ciso8601, python3-urllib3, python3-psutil
+Priority: optional
+Section: net
+Filename: pool/main/x/xvr/xvr_0.82_all.deb
+Size: 157432
+SHA256: 0608f02b2f2abe461b163f411bab23f21e7ccd204e89b022b739c9a9466086e4
+SHA1: eb7b85d5ca5dfc24250155316bdf3da932ca548f
+MD5sum: 3d096830bcc20d1900c6d44e7b929e88
+Description: xvr (Simple but extended Network Video Recorder)
+Plugin-Section: sharing
+
